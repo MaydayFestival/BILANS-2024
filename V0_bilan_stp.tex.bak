@@ -36,6 +36,8 @@ Dans le but d'être ouvert à plus de public et de permettre le passage de davan
 Plusieurs périodes ont composé l'organisation et le déroulement du festival. Ces séquences seront détaillées dans le rapport avant les bilans et la conclusion de cette édition.
 \end{abstract}
 
+\tableofcontents
+
 \part{Gestion de projet (août 2023 - avril 2024)}
 \chapter{Membres de l'organisation}
 \section{Contexte}
@@ -133,7 +135,7 @@ De manière plus générale, l'ensemble du montage du projet nécessitait des é
 \section{Membres de l'équipe "Mayday 2024"}
 Cette année, l'équipe du Mayday était composée par :
 \begin{center}
-\begin{tabular}{| m{3cm} | m{6cm} |}
+\begin{tabular}{| m{3cm} | m{7cm} |}
 \hline
 Pôle & Prénom \\ 
  \hline\hline\\
@@ -142,10 +144,13 @@ Transverse & \textbf{Louis Delignac}\\
 \multirow{2}{5em}{Sécurité technique prévention} & \textbf{Sacha Duperret} \\ 
 & Antoine Philippeau, Ebène Bilé, Maël Avadian, Flavio Arella\\  
  \hline\\
- \multirow{2}{5em}{ Innovation écologique et sociale} & \textbf{Baptiste Royau} \\ 
+ \multirow{2}{5em}{Innovation écologique et sociale} & \textbf{Baptiste Royau} \\ 
 & Katarina Montenier, Manon Bénard, Eléa Peynaud, Leelou Cateigbou\\
  \hline\\
- \multirow{2}{5em}{ Artistes} & \textbf{Leïla Karim} \\ 
+  \multirow{2}{5em}{Trésorerie} & \textbf{Aurélien Gauthier} \\ 
+& Victor Lamare\\
+ \hline\\
+ \multirow{2}{5em}{ Artistes} & \textbf{Leïla Karim} \\
 & Lucile Guerin\\
  \hline\\
 \multirow{2}{5em}{Bénévoles} & \textbf{Nabil Es-Selymy} \\ 
@@ -156,23 +161,20 @@ Transverse & \textbf{Louis Delignac}\\
  \hline\\
  \multirow{1}{5em}{Logistique} & \textbf{Arthur Vienot} \\ 
  \hline\\
- \multirow{2}{5em}{Restauration} & \textbf{Lucas Brouet} \\ 
- \hline\\
- \multirow{2}{5em}{Trésorerie} & \textbf{Aurélien Gauthier} \\ 
-& Victor Lamare\\
- \hline\\
- 
+ \multirow{1}{5em}{Restauration} & \textbf{Lucas Brouet} \\ 
+ \hline
 \end{tabular}
 \end{center}
 
-
-
-\subsection{subsection}
-\subsubsection{subsubsection}
-\paragraph{paragraph}
-\subparagraph{subparagraph}
-
 \part{Installation et mise en place (10 mai - 17 mai 2024)}
+\chapter{Livraisons}
+Du vendredi 10 mai au vendredi 17 mai, le festival fut mis en place. 
+\section{Méthodologie}
+
+
+\section{Opérationnel}
+
+\section{Bilan}
 
 \part{Opérationnel (17 mai - 18 mai 2024)}
 
@@ -184,7 +186,9 @@ Transverse & \textbf{Louis Delignac}\\
 \part{Bilan financier}
 \chapter{Analyse financière - passage à 2 jours}
 
-
-
+\subsection{subsection}
+\subsubsection{subsubsection}
+\paragraph{paragraph}
+\subparagraph{subparagraph}
 
 \end{document}
