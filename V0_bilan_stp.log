@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.10)  26 JUN 2024 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.10)  26 JUN 2024 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -574,43 +574,40 @@ Overfull \vbox (17.39996pt too high) detected at line 197
 ]
 Chapitre 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
-
- []
-
-
 
 [9
 
 ]
 
-[10
+[10]
+
+[11
 
 ]
 
-[11]
-
-[12
-
-]
+[12]
 
 [13
+
+]
+
+[14
 
 ]
 Chapitre 3.
 
 
-[14
+[15
 
 ]
 
-[15
+[16
 
 ]
 Chapitre 4.
 
 
-[16
+[17
 
 ] (V0_bilan_stp.aux)
  ***********
@@ -619,20 +616,20 @@ L3 programming layer <2024-05-08>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8260 strings out of 473937
- 138156 string characters out of 5725482
+ 8262 strings out of 473937
+ 138176 string characters out of 5725482
  1937893 words of memory out of 5000000
  30891 multiletter control sequences out of 15000+600000
- 614444 words of font info for 119 fonts, out of 8000000 for 9000
+ 614535 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,1011b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx1
 2.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 mr12.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmr17.pfb>
-Output written on V0_bilan_stp.pdf (18 pages, 113677 bytes).
+Output written on V0_bilan_stp.pdf (19 pages, 116018 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  30721 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -18,15 +18,15 @@
 \contentsline {section}{\numberline {2.1}Méthodologie}{9}{}%
 \contentsline {section}{\numberline {2.2}Opérationnel}{9}{}%
 \contentsline {subsection}{\numberline {2.2.1}Sécurité}{9}{}%
-\contentsline {section}{\numberline {2.3}Bilan}{9}{}%
-\contentsline {part}{III\hspace {1em}Opérationnel (17 mai - 18 mai 2024)}{10}{}%
-\contentsline {section}{\numberline {2.4}Sécurité}{11}{}%
-\contentsline {part}{IV\hspace {1em}Désinstallation et rangement (19 mai - 7 juin 2024)}{12}{}%
-\contentsline {part}{V\hspace {1em}Bilan moral}{13}{}%
-\contentsline {chapter}{\numberline {3}Partenaires}{14}{}%
-\contentsline {part}{VI\hspace {1em}Bilan financier}{15}{}%
-\contentsline {chapter}{\numberline {4}Analyse financière - passage à 2 jours}{16}{}%
-\contentsline {subsection}{\numberline {4.0.1}subsection}{16}{}%
-\contentsline {subsubsection}{subsubsection}{16}{}%
-\contentsline {paragraph}{paragraph}{16}{}%
-\contentsline {subparagraph}{subparagraph}{16}{}%
+\contentsline {section}{\numberline {2.3}Bilan}{10}{}%
+\contentsline {part}{III\hspace {1em}Opérationnel (17 mai - 18 mai 2024)}{11}{}%
+\contentsline {section}{\numberline {2.4}Sécurité}{12}{}%
+\contentsline {part}{IV\hspace {1em}Désinstallation et rangement (19 mai - 7 juin 2024)}{13}{}%
+\contentsline {part}{V\hspace {1em}Bilan moral}{14}{}%
+\contentsline {chapter}{\numberline {3}Partenaires}{15}{}%
+\contentsline {part}{VI\hspace {1em}Bilan financier}{16}{}%
+\contentsline {chapter}{\numberline {4}Analyse financière - passage à 2 jours}{17}{}%
+\contentsline {subsection}{\numberline {4.0.1}subsection}{17}{}%
+\contentsline {subsubsection}{subsubsection}{17}{}%
+\contentsline {paragraph}{paragraph}{17}{}%
+\contentsline {subparagraph}{subparagraph}{17}{}%
