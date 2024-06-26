@@ -1,6 +1,7 @@
-\documentclass[12pt,a4paper]{report}
+\documentclass[12pt,a4paper,draft]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
+\usepackage{microtype}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -10,8 +11,10 @@
 \usepackage{array}
 \usepackage{multirow}
 
+\linespread{1.2}
+
 \usepackage{geometry}
-\geometry{hmargin=2.5cm,vmargin=1.5cm}
+\geometry{hmargin=2cm,vmargin=1.5cm}
 
 \usepackage{soul} \usepackage{color} \newcommand{\hilight}[1]{\colorbox{yellow}{#1}}
 
@@ -29,7 +32,7 @@ Le Mayday Festival est une manifestation culturelle. Mêlant musique et sensibil
 \begin{itemize}
 \item Ouverture de l'accès à la culture à toutes et tous,
 \item Sensibilisation du plus grand nombre aux transitions environnementales et sociétales,
-\item Être un laboratoire d'incubation, chef de fil en matière d'événementiel éco-responsable,
+c\item Être un laboratoire d'incubation, chef de fil en matière d'événementiel éco-responsable,
 \item Mettre en avant des artistes locaux, émergents et étudiants
 \end{itemize}
 Dans le but d'être ouvert à plus de public et de permettre le passage de davantage d'artistes, la 6e édition du festival se déroulait sur 2 jours.Cette évolution ambitieuse, mais cohérente avec les objectifs, fera l'objet d'une analyse dans ce rapport. \\
@@ -37,6 +40,53 @@ Plusieurs périodes ont composé l'organisation et le déroulement du festival. 
 \end{abstract}
 
 \tableofcontents
+
+\newpage
+
+Introduction
+\begin{itemize}
+\item Nom du festival, dates et lieu
+\item Objectifs initiaux du festival
+\end{itemize}
+
+Bilan de la fréquentation
+\begin{itemize}
+\item Nombre total de visiteurs
+\item Répartition de la fréquentation
+\item Analyse de la fréquentation
+\end{itemize}
+
+Bilan financier
+\begin{itemize}
+\item Recettes
+\item Dépenses
+\item Résultat financier
+\end{itemize}
+
+Bilan artistique et programmation
+\begin{itemize}
+\item Programmation
+\item Analyse de la programmation
+\end{itemize}
+
+Bilan de la communication et du marketing
+\begin{itemize}
+\item Moyens de communication utilisés
+\item Analyse de la communication
+\end{itemize}
+
+Bilan de l'organisation et de la logistique
+\begin{itemize}
+\item Équipe
+\item Logistique
+\item Analyse de l'organisation
+\end{itemize}
+
+Bilan environnemental et social
+\begin{itemize}
+\item Impact environnemental
+\item Impact social
+\end{itemize}
 
 \part{Gestion de projet (août 2023 - avril 2024)}
 \chapter{Membres de l'organisation}
@@ -135,7 +185,7 @@ De manière plus générale, l'ensemble du montage du projet nécessitait des é
 \section{Membres de l'équipe "Mayday 2024"}
 Cette année, l'équipe du Mayday était composée par :
 \begin{center}
-\begin{tabular}{| m{3cm} | m{7cm} |}
+\begin{tabular}{| m{3cm} | m{9cm} |}
 \hline
 Pôle & Prénom \\ 
  \hline\hline\\
@@ -156,12 +206,12 @@ Transverse & \textbf{Louis Delignac}\\
 \multirow{2}{5em}{Bénévoles} & \textbf{Nabil Es-Selymy} \\ 
 & Anessa Diallo\\
  \hline\\
-\multirow{2}{5em}{Communication} & \textbf{Alice Conti} \\ 
+\multirow{2}{7em}{Communication} & \textbf{Alice Conti} \\ 
 & Salma Rabion, Nassim Sellal, Julie Fourneyron\\
  \hline\\
  \multirow{1}{5em}{Logistique} & \textbf{Arthur Vienot} \\ 
  \hline\\
- \multirow{1}{5em}{Restauration} & \textbf{Lucas Brouet} \\ 
+ \multirow{1}{6em}{Restauration} & \textbf{Lucas Brouet} \\ 
  \hline
 \end{tabular}
 \end{center}
@@ -173,10 +223,30 @@ Du vendredi 10 mai au vendredi 17 mai, le festival fut mis en place.
 
 
 \section{Opérationnel}
+\subsection{Sécurité}
+Plusieurs enjeux de sécurité coexistaient durant les temps d'installation et de mise en place du festival : 
+\begin{itemize}
+\item Sécurisation des livraisons,
+\item Protection des usagers classiques du campus,
+\item Stockage du matériel (nuit et intempéries).
+\end{itemize} 
+
+
+Le festival se déroulant sur le campus universitaire de sciences durant une période d'activité, l'organisation du festival devait s'adapter : 
+\begin{itemize}
+\item Niveau de bruit faible pendant les horaires d'enseignements ainsi que la nuit (voisinage),
+\item Maintenir les accès, notamment PMR, entre les différents bâtiments,
+\item Signaler les déviations, notamment vélo, pour traverser le campus,
+\item Partager les espaces intérieurs avec les utilisateurs habituels (services, enseignants, associations étudiantes, ...).
+\end{itemize}
+
+Pour cela, un étalement de l'installation a été mis en place. Habituellement commençant le 
 
 \section{Bilan}
 
 \part{Opérationnel (17 mai - 18 mai 2024)}
+\section{Sécurité}
+
 
 \part{Désinstallation et rangement (19 mai - 7 juin 2024)}
 
