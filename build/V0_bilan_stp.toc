@@ -1,0 +1,32 @@
+\babel@toc {french}{}\relax 
+\contentsline {part}{I\hspace {1em}Gestion de projet (août 2023 - avril 2024)}{3}{}%
+\contentsline {chapter}{\numberline {1}Membres de l'organisation}{4}{}%
+\contentsline {section}{\numberline {1.1}Contexte}{4}{}%
+\contentsline {section}{\numberline {1.2}Méthodologie}{4}{}%
+\contentsline {subsection}{\numberline {1.2.1}Recrutement}{4}{}%
+\contentsline {subsubsection}{Réseau proche}{4}{}%
+\contentsline {subsection}{\numberline {1.2.2}Pôles}{4}{}%
+\contentsline {subsubsection}{Enjeux}{4}{}%
+\contentsline {subsubsection}{Version finale}{5}{}%
+\contentsline {subsection}{\numberline {1.2.3}Interactions}{5}{}%
+\contentsline {subsubsection}{Administratif}{5}{}%
+\contentsline {subsubsection}{Communication et partenariats}{6}{}%
+\contentsline {subsubsection}{Montage de projet}{6}{}%
+\contentsline {section}{\numberline {1.3}Membres de l'équipe "Mayday 2024"}{6}{}%
+\contentsline {part}{II\hspace {1em}Installation et mise en place (10 mai - 17 mai 2024)}{8}{}%
+\contentsline {chapter}{\numberline {2}Livraisons}{9}{}%
+\contentsline {section}{\numberline {2.1}Méthodologie}{9}{}%
+\contentsline {section}{\numberline {2.2}Opérationnel}{9}{}%
+\contentsline {subsection}{\numberline {2.2.1}Sécurité}{9}{}%
+\contentsline {section}{\numberline {2.3}Bilan}{10}{}%
+\contentsline {part}{III\hspace {1em}Opérationnel (17 mai - 18 mai 2024)}{11}{}%
+\contentsline {section}{\numberline {2.4}Sécurité}{12}{}%
+\contentsline {part}{IV\hspace {1em}Désinstallation et rangement (19 mai - 7 juin 2024)}{13}{}%
+\contentsline {part}{V\hspace {1em}Bilan moral}{14}{}%
+\contentsline {chapter}{\numberline {3}Partenaires}{15}{}%
+\contentsline {part}{VI\hspace {1em}Bilan financier}{16}{}%
+\contentsline {chapter}{\numberline {4}Analyse financière - passage à 2 jours}{17}{}%
+\contentsline {subsection}{\numberline {4.0.1}subsection}{17}{}%
+\contentsline {subsubsection}{subsubsection}{17}{}%
+\contentsline {paragraph}{paragraph}{17}{}%
+\contentsline {subparagraph}{subparagraph}{17}{}%
