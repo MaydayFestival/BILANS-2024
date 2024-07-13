@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 18:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,11 +696,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 ] [6] [7]
 Chapitre 2.
 
-Overfull \vbox (17.39996pt too high) detected at line 251
+Overfull \vbox (17.39996pt too high) detected at line 252
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 254
+Overfull \vbox (17.39996pt too high) detected at line 255
  []
 
 [8
@@ -718,8 +718,15 @@ Chapitre 4.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 8755374C64C988F7F5A2B60C4D873243;2407.
+
+
+Package rerunfilecheck Warning: File `V0_bilan_stp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `V0_bilan_stp.out':
+(rerunfilecheck)             Before: 8755374C64C988F7F5A2B60C4D873243;2407
+(rerunfilecheck)             After:  5D1122B4A1156ECE58FDDF5232BD14FE;2333.
  ) 
 Here is how much of TeX's memory you used:
  15028 strings out of 474312
@@ -751,7 +758,7 @@ Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
 sers/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (12 pages, 207801 bytes).
+p.pdf (12 pages, 207697 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
  43 named destinations out of 1000 (max. 500000)
