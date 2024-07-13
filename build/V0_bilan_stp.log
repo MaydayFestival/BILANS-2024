@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -686,21 +686,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 nc}]
 [4]
 Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
 [5
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-[6] [7]
+] [6] [7]
 Chapitre 2.
 
-Overfull \vbox (17.39996pt too high) detected at line 197
+Overfull \vbox (17.39996pt too high) detected at line 251
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 200
+Overfull \vbox (17.39996pt too high) detected at line 254
  []
 
 [8
@@ -719,28 +719,41 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 0C64BF33279FD1B247A0752CA944B1B4;2587.
+(rerunfilecheck)             Checksum: 8755374C64C988F7F5A2B60C4D873243;2407.
  ) 
 Here is how much of TeX's memory you used:
- 15026 strings out of 474312
- 243255 string characters out of 5739285
+ 15028 strings out of 474312
+ 243244 string characters out of 5739285
  1939907 words of memory out of 5000000
- 37096 multiletter control sequences out of 15000+600000
- 613401 words of font info for 141 fonts, out of 8000000 for 9000
+ 37097 multiletter control sequences out of 15000+600000
+ 610706 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1739b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
-b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
-C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C
-:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/
-Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
+ 75i,10n,79p,1739b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.1.2.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb>
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb>
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><
+C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C
+:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
+/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
+Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
+sers/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
+rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (12 pages, 200472 bytes).
+p.pdf (12 pages, 207801 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 32881 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 43 named destinations out of 1000 (max. 500000)
+ 30833 words of extra memory for PDF output out of 35830 (max. 10000000)
 
