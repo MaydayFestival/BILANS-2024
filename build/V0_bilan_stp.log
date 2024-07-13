@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 18:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,22 +696,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 ] [6] [7]
 Chapitre 2.
 
-Overfull \vbox (17.39996pt too high) detected at line 252
+Overfull \hbox (3.29852pt too wide) in paragraph at lines 268--269
+[]\OT1/lmr/m/n/12 (-20) impacte de l'^^Sev^^Senement : sen-ti-ment d'uti-lit^^S
+e, sen-si-bi-li-sa-tion, ^^Seducation po-pu-laire, m^^Sediation, 
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 255
+Overfull \vbox (17.39996pt too high) detected at line 280
+ []
+
+
+Overfull \vbox (17.39996pt too high) detected at line 283
  []
 
 [8
 
-]
+] [9]
 Chapitre 3.
-[9
+
+Overfull \hbox (27.74193pt too wide) in paragraph at lines 309--310
+[]\OT1/lmr/m/n/12 (-20) Le May-day est un fes-ti-val ^^Setudiant 100% b^^Sen^^S
+evole. Cet ^^Sev^^Senement met l'ac-cent sur l'exp^^Serimentation
+ []
+
+[10
 
 ]
 Chapitre 4.
-[10
+[11
 
 ] (V0_bilan_stp.aux)
  ***********
@@ -725,17 +737,17 @@ Package rerunfilecheck Warning: File `V0_bilan_stp.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `V0_bilan_stp.out':
-(rerunfilecheck)             Before: 8755374C64C988F7F5A2B60C4D873243;2407
-(rerunfilecheck)             After:  5D1122B4A1156ECE58FDDF5232BD14FE;2333.
+(rerunfilecheck)             Before: 5D1122B4A1156ECE58FDDF5232BD14FE;2333
+(rerunfilecheck)             After:  1C9109799D49482F9A34AE24A2F1E50D;2543.
  ) 
 Here is how much of TeX's memory you used:
- 15028 strings out of 474312
- 243244 string characters out of 5739285
+ 15041 strings out of 474312
+ 243410 string characters out of 5739285
  1939907 words of memory out of 5000000
- 37097 multiletter control sequences out of 15000+600000
- 610706 words of font info for 143 fonts, out of 8000000 for 9000
+ 37100 multiletter control sequences out of 15000+600000
+ 615265 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1739b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1739b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{subsection.1.2.3} has been referenced but does not 
 exist, replaced by a fixed one
@@ -756,11 +768,12 @@ C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C
 /Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
 Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/U
 sers/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
+rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (12 pages, 207697 bytes).
+p.pdf (13 pages, 229302 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 30833 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 32881 words of extra memory for PDF output out of 35830 (max. 10000000)
 
