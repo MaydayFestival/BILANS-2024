@@ -1,8 +1,10 @@
-\documentclass[12pt,a4paper,draft]{report}
+\documentclass[12pt,a4paper]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
+\usepackage[hidelinks]{hyperref}
 \usepackage{microtype}
-\usepackage[T1]{fontenc}
+\usepackage{fontenc}
+\usepackage[scaled]{helvet}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -10,6 +12,10 @@
 \usepackage{lmodern}
 \usepackage{array}
 \usepackage{multirow}
+\AddThinSpaceBeforeFootnotes % à insérer si on utilise \usepackage[french]{babel}
+\FrenchFootnotes % à insérer si on utilise \usepackage[french]{babel}
+
+
 
 \linespread{1.2}
 
@@ -18,8 +24,10 @@
 
 \usepackage{soul} \usepackage{color} \newcommand{\hilight}[1]{\colorbox{yellow}{#1}}
 
-\title{Bilan de la 6e édition du Festival Mayday (2024)}
-\author{Association M-Tech}
+\renewcommand{\thefootnote}{\roman{footnote}}
+
+\title{Bilan moral du Festival Mayday}
+\author{$6^e$ édition - 2024}
 \date{Vendredi 31 mai 2024}
 
 \makeindex
@@ -28,68 +36,63 @@
 \maketitle
 
 \begin{abstract}
-Le Mayday Festival est une manifestation culturelle. Mêlant musique et sensibilisation aux transitions socio-environnementales, ses objectifs sont :
+\textbf{A REFAIRE} \\
+Le Mayday Festival est une manifestation culturelle. Mêlant musique et sensibilisation aux transitions socio-environnementales, ce festival s'articule autour d'objectifs simples et concrets :
 \begin{itemize}
-\item Ouverture de l'accès à la culture à toutes et tous,
+\item Ouverture de l’accès à la culture à toutes et tous,
 \item Sensibilisation du plus grand nombre aux transitions environnementales et sociétales,
-c\item Être un laboratoire d'incubation, chef de fil en matière d'événementiel éco-responsable,
-\item Mettre en avant des artistes locaux, émergents et étudiants
+\item Être un laboratoire d’incubation, chef de fil en matière d’événementiel éco-responsable,
+\item Mettre en avant des artistes locaux, émergents et étudiants,
+\item Faire du campus non plus seulement un lieu de passage et d'étude, mais aussi un lieu de vie que les étudiants s'approprient,
+\item \sloppy Favoriser l’ouverture du monde académique aux arts vivants et vers le territoire métropolitain.
 \end{itemize}
-Dans le but d'être ouvert à plus de public et de permettre le passage de davantage d'artistes, la 6e édition du festival se déroulait sur 2 jours.Cette évolution ambitieuse, mais cohérente avec les objectifs, fera l'objet d'une analyse dans ce rapport. \\
-Plusieurs périodes ont composé l'organisation et le déroulement du festival. Ces séquences seront détaillées dans le rapport avant les bilans et la conclusion de cette édition.
+Dans le but d’être ouvert à plus de public et de permettre le passage de davantage d’artistes, la 6e édition du festival se déroulait sur 2 jours. Cette évolution ambitieuse, mais cohérente avec les objectifs, fera l’objet d’une analyse dans ce rapport. Véritable vitrine et vecteur de l'engagement étudiant sur les campus bordelais, le Mayday est une expérience rassemblant de nombreux partenaires, acteurs du territoire, services publics et étudiants. Plusieurs périodes se sont succédé tout au long de la vie du projet ; ces séquences seront détaillées dans le rapport, avant les bilans et les conclusions que nous tirons de cette édition.
 \end{abstract}
 
 \tableofcontents
 
 \newpage
 
-Introduction
-\begin{itemize}
-\item Nom du festival, dates et lieu
-\item Objectifs initiaux du festival
-\end{itemize}
+\section*{Avant-propos}
+%\addcontentsline{toc}{section}{Avant-propos}
 
-Bilan de la fréquentation
+Le Mayday Festival est une manifestation culturelle. Mêlant musique et sensibilisation aux transitions socio-environnementales, ce festival s'articule autour d'objectifs simples et concrets :
 \begin{itemize}
-\item Nombre total de visiteurs
-\item Répartition de la fréquentation
-\item Analyse de la fréquentation
+\item Ouverture de l’accès à la culture à toutes et tous,
+\item Sensibilisation du plus grand nombre aux transitions environnementales et sociétales,
+\item Être un laboratoire d’incubation, chef de fil en matière d’événementiel éco-responsable,
+\item Mettre en avant des artistes locaux, émergents et étudiants,
+\item Faire du campus non plus seulement un lieu de passage et d'étude, mais aussi un lieu de vie que les étudiants s'approprient,
+\item Favoriser l’ouverture du monde académique aux arts vivants et vers le territoire métropolitain.
 \end{itemize}
+Dans le but d’être ouvert à plus de public et de permettre le passage de davantage d’artistes, la 6e édition du festival se déroulait sur 2 jours. Cette évolution ambitieuse, mais cohérente avec les objectifs, fera l’objet d’une analyse dans ce rapport. Véritable vitrine et vecteur de l'engagement étudiant sur les campus bordelais, le Mayday est une expérience rassemblant de nombreux partenaires, acteurs du territoire, services publics et étudiants. Plusieurs périodes se sont succédé tout au long de la vie du projet ; ces séquences seront détaillées dans le rapport, avant les bilans et les conclusions que nous tirons de cette édition.
 
-Bilan financier
-\begin{itemize}
-\item Recettes
-\item Dépenses
-\item Résultat financier
-\end{itemize}
+Ce bilan moral est l’occasion pour les organisateurs de revenir sur l’édition 2024 du Mayday. Commençant par son déroulement, afin d’établir une liste de ses points forts et de ses fragilités afin de faire ressortir des axes d’amélioration pour les prochaines éditions, nous poursuivrons par une section sur l'équipe organisatrice, puis un retour sur les innovations amenées sur cette édition. Nous reviendrons sur le passage à 2 jours de festival et proposerons une analyse des points faibles et forts permettant de mieux appréhender les évolutions à mettre en place sur les prochaines éditions. Un retour d'expérience par séquence de l'événement (organisation, installation, exploitation, démontage) sera ensuite exposé. Ce bilan sera clôturé par une discussion et la formulation d'horizons pour le festival Mayday.
 
-Bilan artistique et programmation
-\begin{itemize}
-\item Programmation
-\item Analyse de la programmation
-\end{itemize}
+\section*{Contexte financier}
+\paragraph*{État de la trésorerie suite au Mayday 2023 (mai - juillet 2023)}
+La sixième édition du festival a été réalisée dans un contexte financier compliqué pour l’association. En effet, le bilan de l'édition 2023 a fait état d'une situation financière tendue, marquée notamment par un déficit de 36 733,11 €. Cette situation met en évidence un manque de maîtrise des dépenses, de contrôle par les organes compétents\footnote{Définit dans les statuts de l'association M-Tech, il s'agit du conseil d'administration} et une programmation budgétaire insuffisamment étayée, ne permettant pas d'anticiper certains écueils financiers (plusieurs subventions sollicitées non acquises). Par ailleurs, il apparaît que le maintien de certains engagements contractuels, malgré leur poids financier et les contraintes techniques croissantes, a contribué à la situation déficitaire\footnote{La direction sécurité sûreté l'université de Bordeaux et les personnes responsables de la sécurité du Mayday ayant alerté le directeur du festival sur les contraintes techniques, de sécurité et les frais supplémentaires inhérent au tir d'un feu d'artifice dans un délai permettant raisonnablement l'annulation partielle de la prestation, entrainant ainsi une facturation inférieure en application des conditions générales de vente}.
 
-Bilan de la communication et du marketing
-\begin{itemize}
-\item Moyens de communication utilisés
-\item Analyse de la communication
-\end{itemize}
+\paragraph*{Décision prises dans le périmètre trésorerie (septembre - octobre 2023)}
+L'association a vu une part significative de ses liquidités consommées, le passif exigible\footnote{Définit plus haut à hauteur de 36 733,11 €, mais ne semble pas concordant avec les montants des échéanciers effectivement programmés et partiellement réalisés sur les exercices 2023 et 2024.} ne semblant pas excéder l'actif qui serait disponible mensuellement\footnote{d'après la programmation établie (événements, subventions et autres ressources de l'association) par les personnes responsables des comptes sur les mandats 2022-2023 et 2023-2024} une échéance mensuelle des montants dû a été négociée pour une période de 10 mois.
 
-Bilan de l'organisation et de la logistique
-\begin{itemize}
-\item Équipe
-\item Logistique
-\item Analyse de l'organisation
-\end{itemize}
+\paragraph*{Éléments communiqués durant la préparation du Mayday 2024 (décembre 2023 - avril 2024)}
+En outre, des éléments complémentaires ont été communiqués aux organisateurs de l'édition 2024\footnote{Référence à la $6^e$ édition du Mayday, dont une partie des membres sont rédacteurs de ce document} au mois de décembre 2023 et au mois d'avril 2024. Force est de constater que ces éléments avaient portés à la connaissance des dirigeants de l'association\footnote{Les dirigeants de l'association M-Tech correspondent au bureau restreint défini dans les statuts} en amont de leur transmission aux équipes chargées du projet \og Mayday 2024 \fg{}. Ces délais, ayant couru dans des conditions qui restent à établir, ont déstabilisé la trésorerie de l'association et le contrôle exercé par les organes compétents, sans pour autant qu'un impact sur le projet en cours puisse être identifié, le budget de l'événement cité étant équilibré en recettes et en dépenses.
 
-Bilan environnemental et social
-\begin{itemize}
-\item Impact environnemental
-\item Impact social
-\end{itemize}
+\paragraph*{Engagements et enjeux pour l'édition du Mayday 2024 (juillet - septembre 2023)}
+Il convient donc d'établir que la situation de l'association au moment du lancement du projet \og Mayday 2024 \fg{} devrait être stabilisée par une gestion maîtrisée, contrôlée par les organes compétents et anticipant de potentiels aléas\footnote{Pouvant couvrir un large spectre : budgets d'événements non consolidés aux risques météorologique, contrôlables ou non.}.
 
-\part{Gestion de projet (août 2023 - avril 2024)}
-\chapter{Membres de l'organisation}
+\section*{Un projet unique}
+
+Le Mayday Student Music Festival est un projet unique : il s'agit du plus grand festival gratuit, en France, porté par des étudiants venus de différentes formations de l’université de Bordeaux et de l’université Bordeaux Montaigne. Ces étudiants se réunissent et s’investissent bénévolement au sein du projet pendant une année entière. Cet engagement est fort, réalisé en parallèle de leurs études, parfois d’emplois étudiant, d’autres activités associatives ou représentatives. Il encourage une montée en compétences, permet d'acquérir de nouvelles connaissances et un savoir-être important. Ces étudiants vont développer leur compétence en gestion de projet (rétroplanning, mailing, reporting,… ), leur agenda est souvent bien rempli et il en est de même pour leur boîte mail. C’est aussi une expérience concrète de travail en équipe, où la communication et l'entraide sont primordiales. Enfin, c’est une introduction, parfois même une découverte, au monde professionnel durant laquelle les organisateurs vont travailler avec les établissements partenaires, un grand nombre d'entreprises, d’associations et de collectivités locales. L’engagement bénévole des étudiants et les soft-skills\footnote{ Aussi appelées compétences douces ou compétences comportementales, ce sont des aptitudes personnelles et relationnelles qui permettent de mieux interagir avec les autres et de s'adapter à différentes situations. Ils se distinguent des hard skills, qui sont les compétences techniques et les connaissances spécifiques à un métier.} développés lors de l’expérience Mayday sont reconnus et valorisés par les employeurs.
+
+Le Mayday est un évènement unique. De par son lien avec les universités bordelaises, le CROUS les collectivités territoriales, premier festival étudiant de France, il fait rayonner l’Université et ses valeurs ; notamment la manière dont elle accompagne ses étudiants dans leur projet. Il s’agit d’un évènement fédérateur pour toute la communauté universitaire. Le Mayday reçoit le soutien de 11 services universitaires. 
+
+\section*{Remerciements}
+
+\newpage
+
+\chapter{Déroulement de l'événement}
 \section{Contexte}
 Les années marquées par la pandémie "Covid-19" ont eu un fort impact sur la transmission des compétences, connaissances et réseaux des membres d'associations. Le Festival Mayday était porté depuis 2016 par le même noyau dûr, puis repris par une équipe majoritairement novice pour la 5e édition (2023). L'objectif de cette année était notamment de capitaliser sur les connaissances et réseaux restaurés sur les années précédentes. 
 
@@ -182,7 +185,7 @@ Sur le plan partenarial (public professionnel, politiques, administrations), la 
 De manière plus générale, l'ensemble du montage du projet nécessitait des échanges globaux. Des point hebdomadaires étaient organisés, permettant que l'ensemble de l'équipe ait le même niveau d'information.
 
 
-\section{Membres de l'équipe "Mayday 2024"}
+\chapter{Membres de l'équipe "Mayday 2024"}
 Cette année, l'équipe du Mayday était composée par :
 \begin{center}
 \begin{tabular}{| m{3cm} | m{9cm} |}
@@ -216,52 +219,74 @@ Transverse & \textbf{Louis Delignac}\\
 \end{tabular}
 \end{center}
 
-\part{Installation et mise en place (10 mai - 17 mai 2024)}
-\chapter{Livraisons}
-Du vendredi 10 mai au vendredi 17 mai, le festival fut mis en place. 
-\section{Méthodologie}
+\chapter{Innovations de l'édition 2024}
 
+\section{Analyse passage sur 2 jours}
 
-\section{Opérationnel}
-\subsection{Sécurité}
-Plusieurs enjeux de sécurité coexistaient durant les temps d'installation et de mise en place du festival : 
-\begin{itemize}
-\item Sécurisation des livraisons,
-\item Protection des usagers classiques du campus,
-\item Stockage du matériel (nuit et intempéries).
-\end{itemize} 
+\chapter{Retour d'expérience}
 
+\section{Phase d'organisation (août 2023 - mai 2024}
 
-Le festival se déroulant sur le campus universitaire de sciences durant une période d'activité, l'organisation du festival devait s'adapter : 
-\begin{itemize}
-\item Niveau de bruit faible pendant les horaires d'enseignements ainsi que la nuit (voisinage),
-\item Maintenir les accès et signaler les déviations, notamment PMR et vélo, entre les différents bâtiments et pour traverser le campus,
-\item Partager les espaces intérieurs avec les utilisateurs habituels (services, enseignants, associations étudiantes, ...).
-\end{itemize}
+\section{Phase d'installation (13 - 17 mai 2024}
 
-Pour cela, un étalement de l'installation a été mis en place. Habituellement commençant au milieu de la semaine, les livraisons ont commencées dès le vendredi précédent. Cela permettait particulièrement de mieux gérer les flux d'usagers du campus.
+\section{Phase d'exploitation (17 - 18 mai 2024}
 
-Par ailleurs, le soutien de l'université de Bordeaux au travers de son service scolarité du collège sciences et technologies était ici primordial. Il a permis le déplacement de nombreux enseignements à distance des espaces "à risques de nuisances" vers des lieux plus calme, à proximité.
+\section{Phase de démontage (19 mai - juin 2024}
 
-Un arrêté du président de l'UB prévoyait, dès le début de la semaine, la fermeture de plusieurs axes de circulation (piéton, vélo et VL) pour concourir à la sécurité des usagers, protéger l'
-
-\section{Bilan}
-
-\part{Opérationnel (17 mai - 18 mai 2024)}
-\section{Sécurité}
-
-
-\part{Désinstallation et rangement (19 mai - 7 juin 2024)}
-
-\part{Bilan moral}
-\chapter{Partenaires}
-
-\part{Bilan financier}
-\chapter{Analyse financière - passage à 2 jours}
-
-\subsection{subsection}
-\subsubsection{subsubsection}
-\paragraph{paragraph}
-\subparagraph{subparagraph}
+%\part{Installation et mise en place (10 mai - 17 mai 2024)}
+%\chapter{Livraisons}
+%Du vendredi 10 mai au vendredi 17 mai, le festival fut mis en place. 
+%\section{Méthodologie}
+%
+%
+%\section{Opérationnel}
+%\subsection{Sécurité}
+%Plusieurs enjeux de sécurité coexistaient durant les temps d'installation et de mise en place du festival : 
+%\begin{itemize}
+%\item Sécurisation des livraisons,
+%\item Protection des usagers classiques du campus,
+%\item Stockage du matériel (nuit et intempéries).
+%\end{itemize} 
+%
+%
+%Le festival se déroulant sur le campus universitaire de sciences durant une période d'activité, l'organisation du festival devait s'adapter : 
+%\begin{itemize}
+%\item Niveau de bruit faible pendant les horaires d'enseignements ainsi que la nuit (voisinage),
+%\item Maintenir les accès et signaler les déviations, notamment PMR et vélo, entre les différents bâtiments et pour traverser le campus,
+%\item Partager les espaces intérieurs avec les utilisateurs habituels (services, enseignants, associations étudiantes, ...).
+%\end{itemize}
+%
+%Pour cela, un étalement de l'installation a été mis en place. Habituellement commençant au milieu de la semaine, les livraisons ont commencées dès le vendredi précédent. Cela permettait particulièrement de mieux gérer les flux d'usagers du campus.
+%
+%Par ailleurs, le soutien de l'université de Bordeaux au travers de son service scolarité du collège sciences et technologies était ici primordial. Il a permis le déplacement de nombreux enseignements à distance des espaces "à risques de nuisances" vers des lieux plus calme, à proximité.
+%
+%Un arrêté du président de l'UB prévoyait, dès le début de la semaine, la fermeture de plusieurs axes de circulation (piéton, vélo et VL). Cela permettait de :
+%\begin{itemize}
+%\item Mettre en place un barriérage de sécurité autour du site (installation progressive suivant l'installation),
+%\item Ouvrir des voies d'accès sécurisée depuis et vers les bâtiments ainsi que les sorties du campus,
+%\item Faciliter la sécurisation des livraisons, dont les manœuvres pouvaient avoir lieu dans un environnement contrôlé,
+%\item Concourir à la réussite du travail des agents de sécurité en mission de gardiennage de nuit.
+%\end{itemize}
+%
+%
+%
+%\section{Bilan}
+%
+%\part{Opérationnel (17 mai - 18 mai 2024)}
+%\section{Sécurité}
+%
+%
+%\part{Désinstallation et rangement (19 mai - 7 juin 2024)}
+%
+%\part{Bilan moral}
+%\chapter{Partenaires}
+%
+%\part{Bilan financier}
+%\chapter{Analyse financière - passage à 2 jours}
+%
+%\subsection{subsection}
+%\subsubsection{subsubsection}
+%\paragraph{paragraph}
+%\subparagraph{subparagraph}
 
 \end{document}
