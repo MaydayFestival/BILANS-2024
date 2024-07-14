@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  14 JUL 2024 10:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  14 JUL 2024 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -729,9 +729,13 @@ evole. Cet ^^Sev^^Senement met l'ac-cent sur l'exp^^Serimentation
 
 [10
 
-] [11]
+] [11] [12]
 Chapitre 4.
-[12
+[13
+
+] [14]
+Chapitre 5.
+[15
 
 ] (V0_bilan_stp.aux)
  ***********
@@ -739,16 +743,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 0AB0FE4EB3790F4C12494E2460640B2C;2666.
+(rerunfilecheck)             Checksum: 0996C80AD365D2CF52AC7E0C9B3A0A6D;2830.
  ) 
 Here is how much of TeX's memory you used:
- 15068 strings out of 474312
- 243803 string characters out of 5739285
+ 15104 strings out of 474312
+ 244188 string characters out of 5739285
  1939907 words of memory out of 5000000
  37110 multiletter control sequences out of 15000+600000
- 616774 words of font info for 156 fonts, out of 8000000 for 9000
+ 617532 words of font info for 165 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1739b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1739b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{subsection.1.2.3} has been referenced but does not 
 exist, replaced by a fixed one
@@ -772,9 +776,9 @@ sers/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (14 pages, 234616 bytes).
+p.pdf (17 pages, 249479 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
  32881 words of extra memory for PDF output out of 35830 (max. 10000000)
 
