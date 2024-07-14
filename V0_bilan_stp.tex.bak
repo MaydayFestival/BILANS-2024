@@ -26,8 +26,8 @@
 
 \renewcommand{\thefootnote}{\roman{footnote}}
 
-\title{Bilan moral du Festival Mayday}
-\author{$6^e$ édition - 2024}
+\title{Bilan moral du Festival Mayday \\ $6^e$ édition - 2024}
+\author{Équipe Mayday 2024}
 \date{Vendredi 31 mai 2024}
 
 \makeindex
@@ -90,7 +90,7 @@ Le Mayday est un évènement unique. De par son lien avec les universités borde
 
 \section*{Remerciements}
 
-\newpage
+\vfill
 
 \chapter{Déroulement de l'événement}
 
@@ -271,7 +271,7 @@ Sans qu'ils rentrent nécessairement dans l'une ou  l'autre de ces catégories, 
 
 Cette année, l'équipe du Mayday était composée par :
 \begin{center}
-\begin{tabular}{| m{3cm} | m{9cm} |}
+\begin{tabular}{| m{3cm} | m{10cm} |}
 \hline
 Pôle & Prénom \\ 
  \hline\hline
@@ -297,12 +297,43 @@ Transverse & \textbf{Louis Delignac}\\
  \hline
  \multirow{1}{5em}{Logistique} & \textbf{Arthur Vienot} \\ 
  \hline
- \multirow{1}{6em}{Restauration} & \textbf{Lucas Brouet} \\ 
+ \multirow{1}{5em}{Restauration} & \textbf{Lucas Brouet} \\ 
  \hline
 \end{tabular}
 \end{center}
 
+\textit{Les responsables de chaque pôle sont identifiés en gras.}
+
 \chapter{Innovations de l'édition 2024}
+
+Le Mayday est un festival étudiant 100\% bénévole. Cet événement met l’accent sur l’expérimentation et l’innovation. En suivant cette démarche, l’édition 2024 a opéré de nombreux changements dans l’organisation du festival en montrant une ambition certaine sur le volet écologique et social.
+
+\section{Nouveautés de l'édition 2024}
+
+\paragraph{Pôle innovation écologique et sociale}
+Plusieurs innovations ont été mises en place  durant cette édition, notamment un pôle innovation écologique et sociale. Anciennement pôle village, cette complète restructuration a été la source de nombreux changements : 
+\begin{itemize}
+\item Charte générale d’engagements
+\item Charte alimentaire, l'alimentation sur le festival était 100\% végétarienne,
+\item Friperie solidaire
+\item Table ronde
+\item Goûter solidaire
+\item Spectacle vivant
+\end{itemize}
+
+\paragraph{Repas maison pour les équipes}
+Par ailleurs, et pour appliquer la charte alimentaire, une cuisine maison a été mise en place pour les bénévoles, prestataires et organisateurs avec le concours du CROUS. Pour des raisons techniques (notamment la gestion de multiples demandes et régimes spécifiques), nous n'avons pas encore pu mettre en place cette innovation pour les artistes. Cela fait partie des points que nous souhaitons initier pour les prochaines éditions.
+
+\paragraph{Passage à 2 jours de festival}
+Un passage à 2 jours de festival a aussi été réalisé. Il permet notamment d'offrir plus d'opportunités de sensibilisation, de toucher un public plus large et de faire se produire davantage d'artistes. La section suivante est dédiée à cette évolution.
+
+\paragraph{Safe zone}
+Comme nous avons pu en faire état précédemment dans ce bilan, une \og Safe zone \fg{}  a été mise en place sur une temporalité identique à l'accueil du public sur site. Grand espace à l'écart de la foule, il avait pour vocation d'accueillir toutes les personnes qui le souhaiteraient. Une équipe de bénévoles, formés à la prévention des VSS\footnote{Violences sexistes et sexuelles} et informés des dispositifs que de potentielles victimes pouvaient solliciter, étaient en relation étroite avec la protection civile de Talence, dont le poste de secours était implanté à proximité. 
+
+\section{Améliorations}
+Cette édition s'est particulièrement distinguée, en dépassant plusieurs records établis sur les 5 premières années d'existence du festival. En effet, le nombre de partenaires du festival, le nombre de bénévoles impliqués les Jours J et dans l'organisation en amont. Toujours dans la dynamique d'offrir la possibilité au plus grand nombre d'artistes, notamment émergeant, de se produire sur les scènes du Mayday et permettre un accès gratuit aux arts, nous avons doublé le nombre de groupe accueillis.
+
+Un changement notable a également pris place derrière dans les buvettes. En effet, depuis plusieurs années le Mayday travaillait avec une brasserie située à 40 km du festival. Avec cette évolution, notre nouveau partenaire se situe directement à Bordeaux (à 5 km des scènes). Ses engagements sont davantage en symbiose avec ceux du Mayday et le contact humain (facilité par la proximité)
 
 \section{Analyse passage sur 2 jours}
 

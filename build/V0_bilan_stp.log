@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  13 JUL 2024 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  14 JUL 2024 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,11 +616,11 @@ LaTeX Font Info:    Trying to load font information for OMX+lmex on input line
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 37.
+LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 37.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 37.
+(Font)              <12> on input line 37.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 
@@ -639,6 +639,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 37.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 37.
+
 [1
 
 {C:/Users/duper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/dupe
@@ -650,8 +655,6 @@ been already used, duplicate ignored
                    \relax 
 l.50 \end{abstract}
                     [1] (V0_bilan_stp.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -709,6 +712,11 @@ Overfull \vbox (17.39996pt too high) detected at line 280
 Overfull \vbox (17.39996pt too high) detected at line 283
  []
 
+
+Overfull \hbox (6.08432pt too wide) in paragraph at lines 300--300
+[]|\OT1/lmr/m/n/12 (-20) Restauration|  
+ []
+
 [8
 
 ] [9]
@@ -721,31 +729,24 @@ evole. Cet ^^Sev^^Senement met l'ac-cent sur l'exp^^Serimentation
 
 [10
 
-]
+] [11]
 Chapitre 4.
-[11
+[12
 
 ] (V0_bilan_stp.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-
-
-Package rerunfilecheck Warning: File `V0_bilan_stp.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `V0_bilan_stp.out':
-(rerunfilecheck)             Before: 5D1122B4A1156ECE58FDDF5232BD14FE;2333
-(rerunfilecheck)             After:  1C9109799D49482F9A34AE24A2F1E50D;2543.
+Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
+(rerunfilecheck)             Checksum: 0AB0FE4EB3790F4C12494E2460640B2C;2666.
  ) 
 Here is how much of TeX's memory you used:
- 15041 strings out of 474312
- 243410 string characters out of 5739285
+ 15068 strings out of 474312
+ 243803 string characters out of 5739285
  1939907 words of memory out of 5000000
- 37100 multiletter control sequences out of 15000+600000
- 615265 words of font info for 147 fonts, out of 8000000 for 9000
+ 37110 multiletter control sequences out of 15000+600000
+ 616774 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,1739b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -761,7 +762,7 @@ pdfTeX warning (dest): name{subsection.1.2.1} has been referenced but does not
 exist, replaced by a fixed one
 
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb>
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb>
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb>
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><
 C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C
 :/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:
@@ -771,9 +772,9 @@ sers/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (13 pages, 229302 bytes).
+p.pdf (14 pages, 234616 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
  32881 words of extra memory for PDF output out of 35830 (max. 10000000)
 
