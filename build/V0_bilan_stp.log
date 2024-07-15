@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,7 +704,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
@@ -713,18 +713,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-88.
+86.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -737,24 +732,104 @@ Package microtype Info: Loading generic protrusion settings for font family
 [4]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
 [5
 
-] [6] [7]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+[7]
 Chapitre 2.
 
-Overfull \vbox (17.39996pt too high) detected at line 299
+Overfull \vbox (17.39996pt too high) detected at line 208
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 302
+Overfull \vbox (17.39996pt too high) detected at line 211
  []
 
 
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 319--319
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 228--228
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
@@ -762,7 +837,7 @@ Overfull \hbox (1.72902pt too wide) in paragraph at lines 319--319
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 324.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 233.
  [9]
 Chapitre 3.
 [10
@@ -771,9 +846,14 @@ Chapitre 3.
 Chapitre 4.
 [13
 
-] [14] [15]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+[14] [15] [16] [17]
 Chapitre 5.
-[16
+[18
 
 ] (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.aux)
  ***********
@@ -781,16 +861,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 1908D86F8D144B8534607AC98A6E1975;3338.
+(rerunfilecheck)             Checksum: 6CD5CBD7C03FE81398E9A31DF20B27E8;3669.
  ) 
 Here is how much of TeX's memory you used:
- 15170 strings out of 474312
- 246532 string characters out of 5739285
+ 15188 strings out of 474312
+ 246760 string characters out of 5739285
  1937907 words of memory out of 5000000
- 37168 multiletter control sequences out of 15000+600000
- 630817 words of font info for 173 fonts, out of 8000000 for 9000
+ 37171 multiletter control sequences out of 15000+600000
+ 631020 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,1324b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1324b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
 b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
 ><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
@@ -803,9 +883,9 @@ C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb
 >
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (18 pages, 263243 bytes).
+p.pdf (20 pages, 269417 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 43161 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 43185 words of extra memory for PDF output out of 51595 (max. 10000000)
 
