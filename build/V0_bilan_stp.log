@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 15:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,8 +703,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-76.
+87.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -712,98 +727,87 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [2{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
+ [3{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 82.
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
-[3] [4] [5]
+[4]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
-[6
+[5
 
-] [7] [8]
+] [6] [7]
 Chapitre 2.
+
+Overfull \vbox (17.39996pt too high) detected at line 298
+ []
+
 
 Overfull \vbox (17.39996pt too high) detected at line 301
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 304
- []
-
-
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 321--321
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 318--318
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
-[9
+[8
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 326.
- [10]
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 323.
+ [9]
 Chapitre 3.
-[11
+[10
 
-] [12] [13]
+] [11] [12]
 Chapitre 4.
-[14
+[13
 
-] [15] [16]
+] [14] [15]
 Chapitre 5.
-[17
+[16
 
 ] (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 1BCFA2E062D630B81812E79CFBF5AB2D;3338.
+
+
+Package rerunfilecheck Warning: File `V0_bilan_stp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `V0_bilan_stp.out':
+(rerunfilecheck)             Before: 47AD5C9899B27712D0C2CEDCEE490580;3338
+(rerunfilecheck)             After:  1908D86F8D144B8534607AC98A6E1975;3338.
  ) 
 Here is how much of TeX's memory you used:
- 15204 strings out of 474312
- 246953 string characters out of 5739285
+ 15170 strings out of 474312
+ 246532 string characters out of 5739285
  1937907 words of memory out of 5000000
- 37180 multiletter control sequences out of 15000+600000
- 635117 words of font info for 182 fonts, out of 8000000 for 9000
+ 37168 multiletter control sequences out of 15000+600000
+ 630701 words of font info for 172 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,1313b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1324b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
-b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb>
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><
-C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C
-:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:
-/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:
-/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:
-/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:
-/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/
-Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C
-:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb>
+b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
+><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
+C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><
+C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><
+C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><
+C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C
+:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb
+>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (19 pages, 291028 bytes).
+p.pdf (18 pages, 263887 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 45209 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 290 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 43161 words of extra memory for PDF output out of 51595 (max. 10000000)
 

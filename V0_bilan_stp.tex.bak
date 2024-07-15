@@ -4,7 +4,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{microtype}
 \usepackage[T1]{fontenc}
-\usepackage{arial}
+\usepackage{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -69,21 +69,6 @@ Dans le but d’être ouvert à plus de public et de permettre le passage de dav
 
 Ce bilan moral est l’occasion pour les organisateurs de revenir sur l’édition 2024 du Mayday. Commençant par son déroulement, afin d’établir une liste de ses points forts et de ses fragilités permettant de faire ressortir des axes d’amélioration pour les prochaines éditions, nous poursuivrons par une partie dédiée à l'équipe organisatrice, puis un retour sur les innovations mises en œuvre sur cette édition. Nous reviendrons sur le passage à 2 jours de festival et proposerons une analyse des points faibles et forts permettant de mieux appréhender les évolutions à mettre en place sur les prochaines éditions. Un retour d'expérience par séquence de l'événement (organisation, installation, exploitation, démontage) sera ensuite exposé. Ce bilan sera clôturé par une discussion et la formulation d'horizons pour le festival Mayday.
 
-\subsection*{Contexte financier}
-\addcontentsline{toc}{subsection}{Contexte financier}
-
-\paragraph*{État de la trésorerie suite au Mayday 2023 (mai - juillet 2023)}
-La sixième édition du festival a été réalisée dans un contexte financier difficile pour l’association. En effet, le bilan de l'édition 2023 a fait état d'une situation financière défaillante, marquée notamment par un déficit de 36 733,11 €. Cette situation met en évidence un manque de maîtrise des dépenses, de contrôle par les organes compétents\footnote{Définit dans les statuts de l'association M-Tech, il s'agit du conseil d'administration} et une programmation budgétaire insuffisamment étayée, ne permettant pas d'anticiper certains écueils financiers (plusieurs subventions sollicitées non acquises). Par ailleurs, il apparaît que le maintien de certains engagements contractuels, malgré leur poids financier et les contraintes techniques croissantes, a contribué à la situation déficitaire\footnote{\sloppy La direction sécurité sûreté l'université de Bordeaux et les responsables de la sécurité du Mayday ayant alerté le directeur du festival sur les contraintes techniques, de sécurité et les frais supplémentaires inhérent au tir d'un feu d'artifice dans un délai permettant raisonnablement l'annulation partielle de la prestation}.
-
-\paragraph*{Décision prises dans le périmètre trésorerie (septembre - octobre 2023)}
-L'association a vu une part significative de ses liquidités consommées, le passif exigible\footnote{Définit plus haut à hauteur de 36 733,11 €, mais ne semble pas concordant avec les montants des échéanciers effectivement programmés et partiellement réalisés sur les exercices 2023 et 2024.} ne semblant pas excéder l'actif qui serait disponible mensuellement\footnote{d'après la programmation établie (événements, subventions et autres ressources de l'association) par les personnes responsables des comptes sur les mandats 2022-2023 et 2023-2024} une échéance mensuelle des montants dû a été négociée pour une période de 10 mois.
-
-\paragraph*{Éléments communiqués durant la préparation du Mayday 2024 (décembre 2023 - avril 2024)}
-En outre, des éléments complémentaires ont été communiqués aux organisateurs de l'édition 2024\footnote{Référence à la $6^e$ édition du Mayday, dont une partie des membres sont rédacteurs de ce document} au mois de décembre 2023 et au mois d'avril 2024. Force est de constater que ces éléments avaient portés à la connaissance des dirigeants de l'association\footnote{Les dirigeants de l'association M-Tech correspondent au bureau restreint défini dans les statuts} en amont de leur transmission aux équipes chargées du projet \og Mayday 2024 \fg{}. Ces délais, ayant couru dans des conditions qui restent à établir, ont déstabilisé la trésorerie de l'association et le contrôle exercé par les organes compétents, sans pour autant qu'un impact sur le projet en cours puisse être identifié, le budget de l'événement cité étant équilibré en recettes et en dépenses.
-
-\paragraph*{Engagements et enjeux pour l'édition du Mayday 2024 (juillet - septembre 2023)}
-Il convient donc d'établir que la situation de l'association au moment du lancement du projet \og Mayday 2024 \fg{} devrait être stabilisée par une gestion maîtrisée, contrôlée par les organes compétents et anticipant de potentiels aléas\footnote{Pouvant couvrir un large spectre : budgets d'événements non consolidés aux risques météorologique, contrôlables ou non}.
-
 \subsection*{Un projet unique}
 \addcontentsline{toc}{subsection}{Un projet unique}
 
@@ -94,6 +79,18 @@ Le Mayday Student Music Festival est un projet unique : il s'agit du plus grand 
 L’engagement bénévole des étudiants et les soft-skills\footnote{ Aussi appelées compétences douces ou compétences comportementales, ce sont des aptitudes personnelles et relationnelles qui permettent de mieux interagir avec les autres et de s'adapter à différentes situations. Ils se distinguent des hard skills, qui sont les compétences techniques et les connaissances spécifiques à un métier.} développés lors de l’expérience Mayday sont reconnus et valorisés par les employeurs.\\
 
 Le Mayday est un évènement unique. De par son lien avec les universités bordelaises, le CROUS, les collectivités territoriales. Il fait rayonner l'ensemble de ses partenaires au travers de ses valeurs. Il s’agit d’un évènement fédérateur pour toute la communauté universitaire et métropolitaine.
+
+\subsection*{Contexte financier}
+\addcontentsline{toc}{subsection}{Contexte financier}
+
+\paragraph*{État de la trésorerie suite au Mayday 2023 (mai - juillet 2023)}
+La sixième édition du festival a été réalisée dans un contexte financier difficile pour l’association. En effet, le bilan de l'édition 2023 a fait état d'une gestion financière défaillante, marquée notamment par un déficit de 36 733,11 €. Cette situation met en évidence un manque de maîtrise des dépenses, de contrôle par les organes compétents\footnote{Définit dans les statuts de l'association M-Tech, il s'agit du conseil d'administration et du bureau} et une programmation budgétaire insuffisamment étayée, ne permettant pas d'anticiper certains écueils financiers (plusieurs subventions sollicitées non acquises). Par ailleurs, il apparaît que le maintien de certains engagements contractuels, malgré leur poids financier et les contraintes techniques croissantes, a contribué à la situation déficitaire\footnote{\sloppy La direction sécurité sûreté l'université de Bordeaux et les responsables de la sécurité du Mayday ayant alerté le directeur du festival sur les contraintes techniques, de sécurité et les frais supplémentaires inhérent au tir d'un feu d'artifice dans un délai permettant raisonnablement l'annulation partielle de la prestation}.
+
+\paragraph*{Décision prises dans le périmètre trésorerie (septembre - octobre 2023)}
+L'association a vu ses liquidités significativement consommées, le passif exigible ne semblant pas excéder l'actif qui serait disponible mensuellement, d'après la programmation établie par les personnes responsables des comptes, une échéance mensuelle des montants dûs a été négociée pour une période de 10 mois.
+
+\paragraph*{Engagements et enjeux pour l'édition du Mayday 2024 (juillet - septembre 2023)}
+Il convient donc d'établir que la situation de l'association au moment du lancement du projet “Mayday 2024” devait être stabilisée par une gestion maîtrisée, contrôlée par les organes compétents et anticipant de potentiels aléas (risques météorologiques, de sécurité ou sanitaires).
 
 \newpage
 \section*{Remerciements}
