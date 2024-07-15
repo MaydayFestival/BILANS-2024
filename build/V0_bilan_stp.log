@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  14 JUL 2024 22:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -649,17 +649,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 {C:/Users/duper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/dupe
 r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/duper/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 41.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50 \end{abstract}
-                    [1] (V0_bilan_stp.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-)
+l.46 \end{abstract}
+                    [1{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/d
+vips/lm/lm-mathsy.enc}] (V0_bilan_stp.toc)
 \tf@toc=\write5
 \openout5 = `V0_bilan_stp.toc'.
 
@@ -668,74 +683,85 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \newpage
+l.50 \newpage
               [1
 
 ]
-Overfull \hbox (11.57935pt too wide) in paragraph at lines 66--67
+Overfull \hbox (11.57935pt too wide) in paragraph at lines 62--63
 []\OT1/lmr/m/n/12 (-20) Favoriser l'ou-ver-ture du monde acad^^Semique aux arts
  vi-vants et vers le ter-ri-toire m^^Setropolitain. 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
-4.
+2.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [2{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc
 }]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 80.
- [3{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.e
-nc}]
-[4]
+(Font)              <5> on input line 78.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+[4] [5]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[5
+[6
 
-] [6] [7]
+] [7] [8]
 Chapitre 2.
 
-Overfull \hbox (3.29852pt too wide) in paragraph at lines 268--269
-[]\OT1/lmr/m/n/12 (-20) impacte de l'^^Sev^^Senement : sen-ti-ment d'uti-lit^^S
-e, sen-si-bi-li-sa-tion, ^^Seducation po-pu-laire, m^^Sediation, 
+Overfull \vbox (17.39996pt too high) detected at line 296
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 280
+Overfull \vbox (17.39996pt too high) detected at line 299
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 283
- []
-
-
-Overfull \hbox (6.08432pt too wide) in paragraph at lines 300--300
+Overfull \hbox (6.08432pt too wide) in paragraph at lines 316--316
 []|\OT1/lmr/m/n/12 (-20) Restauration|  
  []
 
-[8
+[9
 
-] [9]
+] [10]
 Chapitre 3.
+[11
 
-Overfull \hbox (27.74193pt too wide) in paragraph at lines 309--310
-[]\OT1/lmr/m/n/12 (-20) Le May-day est un fes-ti-val ^^Setudiant 100% b^^Sen^^S
-evole. Cet ^^Sev^^Senement met l'ac-cent sur l'exp^^Serimentation
- []
-
-[10
-
-] [11] [12]
+] [12] [13]
 Chapitre 4.
-[13
+[14
 
-] [14]
+] [15] [16]
 Chapitre 5.
-[15
+[17
 
 ] (V0_bilan_stp.aux)
  ***********
@@ -743,16 +769,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 0996C80AD365D2CF52AC7E0C9B3A0A6D;2830.
+(rerunfilecheck)             Checksum: DC95E101B0B560A994FF0745CF594745;2964.
  ) 
 Here is how much of TeX's memory you used:
- 15104 strings out of 474312
- 244188 string characters out of 5739285
+ 15117 strings out of 474312
+ 244320 string characters out of 5739285
  1939907 words of memory out of 5000000
  37110 multiletter control sequences out of 15000+600000
- 617532 words of font info for 165 fonts, out of 8000000 for 9000
+ 617872 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1739b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1345b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{subsection.1.2.3} has been referenced but does not 
 exist, replaced by a fixed one
@@ -776,9 +802,9 @@ sers/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Use
 rs/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (17 pages, 249479 bytes).
+p.pdf (19 pages, 256183 bytes).
 PDF statistics:
- 275 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
  32881 words of extra memory for PDF output out of 35830 (max. 10000000)
 
