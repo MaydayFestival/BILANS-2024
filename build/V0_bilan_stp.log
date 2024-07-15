@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -804,32 +804,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--152
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 [7]
 Chapitre 2.
 
-Overfull \vbox (17.39996pt too high) detected at line 208
+Overfull \vbox (17.39996pt too high) detected at line 209
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 211
+Overfull \vbox (17.39996pt too high) detected at line 212
  []
 
 
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 228--228
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 229--229
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
@@ -837,7 +842,7 @@ Overfull \hbox (1.72902pt too wide) in paragraph at lines 228--228
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 233.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 234.
  [9]
 Chapitre 3.
 [10
@@ -847,7 +852,7 @@ Chapitre 4.
 [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
@@ -864,11 +869,11 @@ Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
 (rerunfilecheck)             Checksum: 6CD5CBD7C03FE81398E9A31DF20B27E8;3669.
  ) 
 Here is how much of TeX's memory you used:
- 15188 strings out of 474312
- 246760 string characters out of 5739285
+ 15184 strings out of 474312
+ 246714 string characters out of 5739285
  1937907 words of memory out of 5000000
  37171 multiletter control sequences out of 15000+600000
- 631020 words of font info for 175 fonts, out of 8000000 for 9000
+ 630788 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,1324b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
@@ -883,7 +888,7 @@ C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb
 >
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (20 pages, 269417 bytes).
+p.pdf (20 pages, 269249 bytes).
 PDF statistics:
  319 PDF objects out of 1000 (max. 8388607)
  75 named destinations out of 1000 (max. 500000)
