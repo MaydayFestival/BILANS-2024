@@ -1,7 +1,7 @@
 \babel@toc {french}{}\relax 
-\contentsline {section}{Avant-propos}{2}{section*.2}%
-\contentsline {section}{Contexte financier}{2}{section*.3}%
-\contentsline {section}{Un projet unique}{3}{section*.8}%
+\contentsline {subsection}{Avant-propos}{2}{section*.2}%
+\contentsline {subsection}{Contexte financier}{2}{section*.3}%
+\contentsline {subsection}{Un projet unique}{3}{section*.8}%
 \contentsline {section}{Remerciements}{5}{section*.9}%
 \contentsline {chapter}{\numberline {1}Déroulement de l'événement}{6}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Vendredi 17 mai}{6}{section.1.1}%
@@ -30,6 +30,6 @@
 \contentsline {subparagraph}{Signalétique}{14}{section*.22}%
 \contentsline {subparagraph}{Sécurité}{15}{section*.23}%
 \contentsline {subparagraph}{Bénévoles}{15}{section*.24}%
-\contentsline {section}{\numberline {4.3}Phase d'exploitation (17 - 18 mai 2024)}{16}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Phase de démontage (19 mai - juin 2024)}{16}{section.4.4}%
+\contentsline {section}{\numberline {4.3}Phase d'exploitation (17 - 18 mai 2024)}{15}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Phase de démontage (19 mai - juin 2024)}{15}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Analyse financière}{17}{chapter.5}%

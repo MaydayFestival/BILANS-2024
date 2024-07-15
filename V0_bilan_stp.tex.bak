@@ -4,7 +4,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{microtype}
 \usepackage[T1]{fontenc}
-\usepackage{helvet}
+\usepackage{arial}
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{amsmath}
 \usepackage{amsfonts}
