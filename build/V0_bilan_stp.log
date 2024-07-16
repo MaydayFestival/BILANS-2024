@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  15 JUL 2024 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  16 JUL 2024 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -412,6 +412,11 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip58
 \bigstrutjot=\dimen169
 )
+(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box56
+)
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -483,7 +488,7 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 tex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count307
-\l__pdf_internal_box=\box56
+\l__pdf_internal_box=\box57
 ) (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.aux)
 \openout1 = `V0_bilan_stp.aux'.
 
@@ -540,7 +545,7 @@ ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count308
 \scratchdimen=\dimen187
-\scratchbox=\box57
+\scratchbox=\box58
 \nofMPsegments=\count309
 \nofMParguments=\count310
 \everyMPshowfont=\toks36
@@ -654,8 +659,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {C:/Users/duper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/dupe
 r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/duper/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/duper/AppDat
-a/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
@@ -681,19 +685,19 @@ been already used, duplicate ignored
                    \relax 
 l.48 \end{abstract}
                     [1]
-(C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.toc)
-\tf@toc=\write5
-\openout5 = `V0_bilan_stp.toc'.
-
-
+(C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.toc
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \newpage
-              [1
+l.55 ...{\numberline {6}Conclusion}{22}{chapter.6}
+                                                  % [1
 
-]
+])
+\tf@toc=\write5
+\openout5 = `V0_bilan_stp.toc'.
+
+ [2]
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
@@ -713,7 +717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[2]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
@@ -727,9 +731,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [3{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
+ [4{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
 ]
-[4]
+[5]
 Chapitre 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
@@ -756,7 +760,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
-[5
+[6
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
@@ -793,7 +797,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
@@ -823,7 +827,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[7]
+[8]
 Chapitre 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 174--175
@@ -869,35 +873,36 @@ Overfull \hbox (1.72902pt too wide) in paragraph at lines 229--229
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
-[8
+[9
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 234.
- [9]
+ [10]
 Chapitre 3.
-[10
+[11
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-[11]
+[12{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+
 Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
-[12]
+[13]
 Chapitre 4.
-[13
+[14
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
@@ -907,7 +912,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 375--376
 
  []
 
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
@@ -937,9 +942,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
 
-[16] [17]
+[17] [18]
 Chapitre 5.
-[18
+
+LaTeX Warning: Command \' invalid in math mode on input line 458.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 484.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 484.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 484.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 484.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 484.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 484.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 484.
+
+[19
+
+{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
+]
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 49
+5.
+ (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 495.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 497--512
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+[20] [21]
+Chapitre 6.
+[22
 
 ] (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.aux)
  ***********
@@ -947,31 +1009,32 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 6CD5CBD7C03FE81398E9A31DF20B27E8;3669.
+(rerunfilecheck)             Checksum: 6845F5608E618A58596BCB91AA1C9987;5479.
  ) 
 Here is how much of TeX's memory you used:
- 15181 strings out of 474312
- 246679 string characters out of 5739285
+ 15360 strings out of 474312
+ 250080 string characters out of 5739285
  1938907 words of memory out of 5000000
- 37171 multiletter control sequences out of 15000+600000
- 630687 words of font info for 172 fonts, out of 8000000 for 9000
+ 37304 multiletter control sequences out of 15000+600000
+ 638792 words of font info for 188 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,1011b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
-b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
-C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><
-C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><
-C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><
-C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C
-:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb
->
+ 75i,15n,79p,1011b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
+fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
+fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pf
+b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
+><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb
+><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb
+><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb
+><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb>
+<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
+b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.p
+fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.p
+fb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (20 pages, 268527 bytes).
+p.pdf (24 pages, 293955 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 43185 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 405 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 49417 words of extra memory for PDF output out of 51595 (max. 10000000)
 

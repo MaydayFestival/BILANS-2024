@@ -16,7 +16,7 @@
 \AddThinSpaceBeforeFootnotes % à insérer si on utilise \usepackage[french]{babel}
 \FrenchFootnotes % à insérer si on utilise \usepackage[french]{babel}
 
-
+\usepackage{threeparttable} %Pour footnote simili-utilisables dans les tableaux
 
 \linespread{1.2}
 
@@ -27,7 +27,7 @@
 
 \renewcommand{\thefootnote}{\roman{footnote}}
 
-\title{Bilan moral du Festival Mayday \\ $6^e$ édition - 2024}
+\title{Bilan moral du Festival Mayday \\ 6$^e$ édition - 2024}
 \author{Équipe Mayday 2024}
 \date{Vendredi 31 mai 2024}
 
@@ -44,7 +44,7 @@ L’engagement de plus de 200 bénévoles a été essentiel à la réussite du f
 
 Malgré une fréquentation légèrement inférieure aux attentes en raison de la météo, le bilan financier de cette édition est équilibré. L’augmentation du nombre de partenaires et des ventes additionnelles ont permis de compenser les coûts supplémentaires liés à l’extension du festival sur deux jours.\\
 
-Cependant, des défis subsistent, notamment en ce qui concerne la répartition des tâches au sein de l’équipe organisatrice et la gestion de la phase de démontage. Le bilan souligne également l’importance d’une communication renforcée pour mieux faire connaître les dispositifs de sécurité et de prévention mis en place lors du festival. Dans l’ensemble, le bilan moral de la $6^e$ édition du festival Mayday est positif, mettant en évidence la capacité de la nouvelle équipe à relever les défis et à innover pour offrir un événement culturel de qualité, accessible à tous et respectueux de l’environnement.
+Cependant, des défis subsistent, notamment en ce qui concerne la répartition des tâches au sein de l’équipe organisatrice et la gestion de la phase de démontage. Le bilan souligne également l’importance d’une communication renforcée pour mieux faire connaître les dispositifs de sécurité et de prévention mis en place lors du festival. Dans l’ensemble, le bilan moral de la 6$^e$ édition du festival Mayday est positif, mettant en évidence la capacité de la nouvelle équipe à relever les défis et à innover pour offrir un événement culturel de qualité, accessible à tous et respectueux de l’environnement.
 \end{abstract}
 
 \tableofcontents
@@ -451,23 +451,95 @@ Dans la même temporalité, les organisateurs n'ayant pas bénéficié d'un repo
 
 \chapter{Analyse financière}
 
-%\section{Bilan}
-%
-%\part{Opérationnel (17 mai - 18 mai 2024)}
-%\section{Sécurité}
-%
-%
-%\part{Désinstallation et rangement (19 mai - 7 juin 2024)}
-%
-%\part{Bilan moral}
-%\chapter{Partenaires}
-%
-%\part{Bilan financier}
-%\chapter{Analyse financière - passage à 2 jours}
-%
-%\subsection{subsection}
-%\subsubsection{subsubsection}
-%\paragraph{paragraph}
-%\subparagraph{subparagraph}
+\section{Aperçu global}
+\begin{itemize}
+\item Total des dépenses : 150 627,40 €
+\item Total des recettes : 150 627,40 €
+\item \textbf{Delta ($dépenses - recettes$) : 0,00 €} (\textit{budget équilibré})
+\end{itemize}
+
+\section{Ventilation des dépenses}
+\begin{itemize}
+\item Création et technique : 76,60 \% du budget total (principalement scènes, technique, artistes)
+\item Déplacements, restauration : 20,93 \%
+\item Communication : 2,46 \%
+\end{itemize}
+
+\section{Ventilation des recettes}
+\begin{itemize}
+\item FSDIE UB : 34,52 %
+\item Association (fonds propres, recettes bar) : 34,22 %
+\item Autres partenaires publics : 26,28 %
+\item Participation/bénéficiaires : 3,49 %
+\item Partenaires privés : 1,49 %
+\end{itemize}
+
+Plusieurs types d'enveloppes ressortent : 
+\begin{itemize}
+\item Financement par l'université de Bordeaux : 71 078,70 €
+\item Financement sur enveloppe CVEC (FSDIE inclus) : 69 500 €À
+\item Financement par de l'argent public\footnote{incluant les financements par l'université de Bordeaux et CVEC} : 91 578,70 € (60.80 \% des recettes)
+\end{itemize}
+
+\section{Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}
+\subsection{Montant global}
+\begin{itemize}
+\item Budget réel 2023 : 179 873,87 €
+\item Budget réel 2024 : 150 627,40 €
+\item Écart : -29 246,47 € (soit une diminution de 19,42 \%)
+\end{itemize}
+
+\subsection{Analyse par catégorie}
+\begin{center}
+\begin{table}[h!]
+\caption{Voici le tableau comparatif des budgets 2023 et 2024 du festival Mayday}
+\begin{threeparttable}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Catégorie des dépenses & Budget réel 2023 & Budget réel 2024 & Écart & Variation (\%) \\
+\hline
+Création et technique & 113 323,51 € & 115 387,09 € & + 2 063,58 € & + 1,79 \% \\
+Déplacements, restauration & 26 963,06 € & 31 533,15 € & + 4 570,09 € & + 14,50 \% \\
+Communication & 30 311,18 €\tnote{a} & 3 707,16 € & - 26 604,02 € & - 87,72 \% \\
+\hline
+Total & 179 873.87 € & 150 627.40 € & - 29 246.47 € & - 19.42 \%\\
+\hline
+\end{tabular}
+\begin{tablenotes}
+   \item[a] Dont 12 093,76 € pour le feu d'artifice
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+\end{center}
+
+\subsection{Observations}
+\begin{itemize}
+\item Les dépenses liées à la création et technique ont été légèrement supérieure au budget de 2023, cela s'explique par le passage à 2 jours de fesival et le contexte économique actuel.
+\item Les dépenses liées aux déplacements et à la restauration ont été nettement supérieures au budget de 2023, cela correspond au changement opéré sur la restauration\footnote{Voir plus dans la partie innovations de l'édition 2024}.
+\item Les dépenses liées à la communication ont été largement inférieures au budget prévu en 2023, en effet la démarche de limitation d'impressions, le changement de prestataire et le fait de ne pas reprogrammer de feu d'artifice ont permis de diminuer dramatiquement ce poste de dépense.\\
+\end{itemize}
+
+Le budget 2024 est globalement plus restreint que celui de 2023, avec une baisse significative des dépenses de communication, compensée en partie par une augmentation des dépenses liées aux déplacements et à la restauration (elles-même conséquentes au passage à 2 jours de festival).
+
+\section{Analyse}
+\begin{itemize}
+\item Budget équilibré : L'événement prévoit des dépenses et des recettes égales, ce qui est positif.
+\item Forte dépendance aux subventions : 60,80 \% des recettes proviennent de fonds publics (FSDIE, UB, partenaires publics), ce qui peut représenter un risque si ces financements ne sont pas confirmés.
+\item Coûts de création et technique élevés : Ces coûts représentent une part importante du budget. Il pourrait être intéressant d'analyser si des économies sont possibles sur ces postes.
+\item Recettes propres non négligeables : Les recettes provenant de l'association (bar, fonds propres) sont importantes et contribuent à l'équilibre du budget.
+\end{itemize}
+
+\section{Recommandations}
+\begin{itemize}
+\item Diversifier les sources de financement : Réduire la dépendance aux subventions publiques en cherchant d'autres partenaires privés ou en augmentant les recettes propres (par exemple, en augmentant les prix au bar ou en organisant des activités payantes).
+\item Négocier les coûts de création et technique : Essayer de réduire ces coûts en négociant avec les prestataires ou en trouvant des alternatives moins coûteuses.
+\item Optimiser la communication : Le budget communication est relativement faible. Une communication efficace pourrait aider à attirer plus de participants et donc potentiellement à augmenter les recettes.
+\end{itemize}
+
+\section{Conclusion de l'analyse financière}
+Le budget prévisionnel est équilibré, mais présente des risques liés à la dépendance aux subventions publiques et aux coûts élevés de la création et de la technique. En diversifiant les sources de financement et en optimisant certains coûts, il serait possible de renforcer la solidité financière de l'événement.
+
+\chapter{Conclusion}
+%\addcontentsline{toc}{chapter}{Conclusion}
 
 \end{document}

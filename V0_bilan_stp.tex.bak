@@ -16,7 +16,7 @@
 \AddThinSpaceBeforeFootnotes % à insérer si on utilise \usepackage[french]{babel}
 \FrenchFootnotes % à insérer si on utilise \usepackage[french]{babel}
 
-
+\usepackage{threeparttable} %Pour footnote simili-utilisables dans les tableaux
 
 \linespread{1.2}
 
@@ -27,7 +27,7 @@
 
 \renewcommand{\thefootnote}{\roman{footnote}}
 
-\title{Bilan moral du Festival Mayday \\ $6^e$ édition - 2024}
+\title{Bilan moral du Festival Mayday \\ 6$^e$ édition - 2024}
 \author{Équipe Mayday 2024}
 \date{Vendredi 31 mai 2024}
 
@@ -44,7 +44,7 @@ L’engagement de plus de 200 bénévoles a été essentiel à la réussite du f
 
 Malgré une fréquentation légèrement inférieure aux attentes en raison de la météo, le bilan financier de cette édition est équilibré. L’augmentation du nombre de partenaires et des ventes additionnelles ont permis de compenser les coûts supplémentaires liés à l’extension du festival sur deux jours.\\
 
-Cependant, des défis subsistent, notamment en ce qui concerne la répartition des tâches au sein de l’équipe organisatrice et la gestion de la phase de démontage. Le bilan souligne également l’importance d’une communication renforcée pour mieux faire connaître les dispositifs de sécurité et de prévention mis en place lors du festival. Dans l’ensemble, le bilan moral de la $6^e$ édition du festival Mayday est positif, mettant en évidence la capacité de la nouvelle équipe à relever les défis et à innover pour offrir un événement culturel de qualité, accessible à tous et respectueux de l’environnement.
+Cependant, des défis subsistent, notamment en ce qui concerne la répartition des tâches au sein de l’équipe organisatrice et la gestion de la phase de démontage. Le bilan souligne également l’importance d’une communication renforcée pour mieux faire connaître les dispositifs de sécurité et de prévention mis en place lors du festival. Dans l’ensemble, le bilan moral de la 6$^e$ édition du festival Mayday est positif, mettant en évidence la capacité de la nouvelle équipe à relever les défis et à innover pour offrir un événement culturel de qualité, accessible à tous et respectueux de l’environnement.
 \end{abstract}
 
 \tableofcontents
@@ -171,22 +171,22 @@ Sur l'ensemble des deux jours, nous avons comptabilisé 17 000 entrées. Un bila
 
 \chapter{Équipe organisatrice}
 
-Une équipe motivée et dynamique est l'essence du festival. 
+Une équipe motivée et dynamique est l'essence du festival.\\
 
-L’équipe organisatrice est composée de 23 jeunes étudiants, venant de formations différentes. Ils ont fait le choix de s’investir bénévolement pour ce projet ambitieux et des valeurs communes.
+L’équipe organisatrice est composée de 23 jeunes étudiants, venant de formations différentes. Ils ont fait le choix de s’investir bénévolement pour ce projet ambitieux et des valeurs communes.\\
 
-Il s'agit de la première année où l'équipe chargée de l'organisation est aussi nombreuse. Une organisation répartissant les missions par périmètre thématique a été mise en œuvre. A posteriori, il convient de faire évoluer l'organisation pour obtenir une répartition des tâches plus claire, faciliter le suivi et le management de profils néophytes. 
+Il s'agit de la première année où l'équipe chargée de l'organisation est aussi nombreuse. Une organisation répartissant les missions par périmètre thématique a été mise en œuvre. A posteriori, il convient de faire évoluer l'organisation pour obtenir une répartition des tâches plus claire, faciliter le suivi et le management de profils néophytes.\\
 
 Plusieurs points forts sont à souligner : 
 \begin{itemize}
 \item engagement fort de l'équipe,
-\item motivation et dynamique.
+\item motivation et dynamique.\\
 \end{itemize}
 
 Cependant des points faibles le sont aussi : 
 \begin{itemize}
 \item ambiance en réunion durant une partie de l'année,
-\item difficulté à mettre en place une attitude adaptée en fonction des temps\footnote{une attitude de travail en réunion et une attitude pouvant être plus amicale en dehors}.
+\item difficulté à mettre en place une attitude adaptée en fonction des temps\footnote{une attitude de travail en réunion et une attitude pouvant être plus amicale en dehors}.\\
 \end{itemize}
 
 Sans qu'ils rentrent nécessairement dans l'une ou l'autre de ces catégories, les points suivant ont aussi été identifiés :
@@ -195,10 +195,10 @@ Sans qu'ils rentrent nécessairement dans l'une ou l'autre de ces catégories, l
 \item typologie d'événement festive, culturelle, taille de l'événement,
 \item engagement : 1 an, dépassement de soir, professionnalisation (découverte de vocation), prise de responsabilité, compétences à acquérir, expérience unique, pas ou peu de passation avec l'équipe précédente,
 \item impacte de l'événement : sentiment d'utilité, sensibilisation, éducation populaire, médiation,
-\item équipe : esprit d'équipe, sentiment d'appartenance, équipe motivée et volontaire.
+\item équipe : esprit d'équipe, sentiment d'appartenance, équipe motivée et volontaire.\\
 \end{itemize}
 
-Cette année, l'équipe du Mayday était composée par :
+Cette année, l'équipe organisatrice du Mayday était composée par :
 \begin{center}
 \begin{tabular}{| m{3cm} | m{10cm} |}
 \hline
@@ -206,7 +206,7 @@ Pôle & Prénom \\
  \hline\hline
 Transverse & \textbf{Louis Delignac}\\ 
 \hline
-\multirow{2}{5em}{Sécurité technique prévention} & \textbf{Sacha Duperret} \\ 
+\multirow{2}{10em}{Sécurité technique prévention} & \textbf{Sacha Duperret} \\ 
 & Antoine Philippeau, Ebène Bilé, Maël Avadian, Flavio Arella\\ 
  \hline
  \multirow{2}{5em}{Innovation écologique et sociale} & \textbf{Baptiste Royau} \\ 
@@ -260,7 +260,7 @@ Un passage à 2 jours de festival a aussi été réalisé. Il permet notamment d
 Comme nous avons pu en faire état précédemment dans ce bilan, une \og Safe zone \fg{} a été mise en place sur une temporalité identique à l'accueil du public sur site. Grand espace à l'écart de la foule, il avait pour vocation d'accueillir toutes les personnes qui le souhaiteraient. Une équipe de bénévoles, formés à la prévention des VSS\footnote{Violences sexistes et sexuelles} et informés des dispositifs que de potentielles victimes pouvaient solliciter, étaient en relation étroite avec la protection civile de Talence, dont le poste de secours était implanté à proximité. 
 
 \section{Améliorations}
-Cette édition s'est particulièrement distinguée, en dépassant plusieurs records établis sur les 5 premières années d'existence du festival. En effet, le nombre de partenaires du festival, le nombre de bénévoles impliqués les Jours J et dans l'organisation en amont. Toujours dans la dynamique d'offrir la possibilité au plus grand nombre d'artistes, notamment émergeant, de se produire sur les scènes du Mayday et permettre un accès gratuit aux arts, nous avons doublé le nombre de groupe accueillis.
+Cette édition s'est particulièrement distinguée, en dépassant plusieurs records établis sur les 5 premières années d'existence du festival. En effet, le nombre de partenaires du festival, le nombre de bénévoles impliqués les Jours J et dans l'organisation en amont. Toujours dans la dynamique d'offrir la possibilité au plus grand nombre d'artistes, notamment émergeant, de se produire sur les scènes du Mayday et permettre un accès gratuit aux arts, nous avons doublé le nombre de groupe accueillis.\\
 
 Un changement notable a également pris place derrière dans les buvettes. En effet, depuis plusieurs années le Mayday travaillait avec une brasserie située à 40 km du festival. Avec cette évolution, notre nouveau partenaire se situe directement à Bordeaux (à 5 km des scènes). Ses engagements sont davantage en symbiose avec du festival.
 
@@ -288,7 +288,7 @@ Dans la continuité, sur le plan financier :
 \item Nous constatons que l'évolution du coût entre la charge additionnelle relative à l'immobilisation du matériel et le temps de travail (doublé) des techniciens des éditions 2023 et 2024 est de l'ordre de $x1,5$\footnote{Nous observons que le chiffre ne semble pas proportionnel à l'augmentation du temps de travail, mais il s'explique par un coût d'immobilisation moins élevé} sur les périmètres son \& lumière, scène et backline. Il est important de noter que le niveau de rémunération des techniciens intervenant a été maintenu. Cela correspond à nos estimations.
 \item La présence d'agents de sécurité privée a augmenté proportionnellement au nombre d'agents et au temps passé sur site. Cette donnée est en accord avec nos projections.
 \item La programmation budgétaire de l'édition 2024 allouait 25 000 € pour payer les artistes de cette édition. Cette augmentation n'est pas proportionnelle à l'évolution du nombre de groupes\footnote{23 589 € dépensés en 2023}, elle correspond à 5 \%. Effectivement 25 749 € ont été consommés, soit 2\% de dépassement.
-\item Sur le plan des recettes, les projections de bénéfices relatifs aux ventes de la buvette de concours avec l'augmentation de plusieurs subventions publiques avaient pour vocation de compenser le coût de cette soirée supplémentaire.
+\item Sur le plan des recettes, les projections de bénéfices relatifs aux ventes de la buvette de concours avec l'augmentation de plusieurs subventions publiques avaient pour vocation de compenser le coût de cette soirée supplémentaire.\\
 \end{itemize}
 Le bilan financier de cette édition fait état d'un équilibre entre les recettes et les dépenses. L'augmentation à 2 jours de festival n'a pas eu d'impact délétère. Une partie ultérieure du rapport est dédiée à l'analyse du budget de cette édition.
 
@@ -369,10 +369,10 @@ Dans le but de mettre en avant le travail fait bénévolement par ses membres, p
 \item l'événement,
 \item les engagements,
 \item la gestion de projet,
-\item les manifestations annexes (participations à des concours, tenue de buvettes, ...)
+\item les manifestations annexes (participations à des concours, tenue de buvettes, ...).\\
 \end{itemize}
 
-Pour cela, des échanges réguliers et la présence de l'équipe de communication en réunion hebdomadaire permettaient une remontée conforme des avancées et de la direction prise par le projet auprès du public.
+Pour cela, des échanges réguliers et la présence de l'équipe de communication en réunion hebdomadaire permettaient une remontée conforme des avancées et de la direction prise par le projet auprès du public.\\
 
 Sur le plan partenarial (public professionnel, politique, administration), la mise en avant des enjeux de la manifestation, ainsi que les engagements humains derrière la façade festive et engagée. Elle se faisait notamment au travers d'une couverture photo/vidéo de nos interventions (séminaires, demandes de subventions, réunions).
 
@@ -410,26 +410,26 @@ Plusieurs enjeux de sécurité coexistaient durant les temps d'installation et d
 \begin{itemize}
 \item Sécurisation des livraisons,
 \item Protection des usagers classiques du campus,
-\item Stockage du matériel (nuit et intempéries).
+\item Stockage du matériel (nuit et intempéries).\\
 \end{itemize} 
 
 Le festival se déroulant sur le campus universitaire de sciences durant une période d'activité, l'organisation du festival devait s'adapter : 
 \begin{itemize}
 \item Niveau de bruit faible pendant les horaires d'enseignements ainsi que la nuit (voisinage),
 \item Maintenir les accès et signaler les déviations, notamment PMR et vélo, entre les différents bâtiments et pour traverser le campus,
-\item Partager les espaces intérieurs avec les utilisateurs habituels (services, enseignants, associations étudiantes, ...).
+\item Partager les espaces intérieurs avec les utilisateurs habituels (services, enseignants, associations étudiantes, ...).\\
 \end{itemize}
 
-Pour cela, un étalement de l'installation a été mis en place. Habituellement commençant au milieu de la semaine, les livraisons ont commencées dès le vendredi précédent. Cela permettait particulièrement de mieux gérer les flux d'usagers du campus.
+Pour cela, un étalement de l'installation a été mis en place. Habituellement commençant au milieu de la semaine, les livraisons ont commencées dès le vendredi précédent. Cela permettait particulièrement de mieux gérer les flux d'usagers du campus.\\
 
-Par ailleurs, le soutien de l'université de Bordeaux au travers de son service scolarité du collège sciences et technologies était ici primordial. Il a permis le déplacement de nombreux enseignements à distance des espaces "à risques de nuisances" vers des lieux plus calme, à proximité.
+Par ailleurs, le soutien de l'université de Bordeaux au travers de son service scolarité du collège sciences et technologies était ici primordial. Il a permis le déplacement de nombreux enseignements à distance des espaces "à risques de nuisances" vers des lieux plus calme, à proximité.\\
 
 Un arrêté du président de l'université de Bordeaux prévoyait, dès le début de la semaine, la fermeture de plusieurs axes de circulation (piéton, vélo et VL). Cela permettait de :
 \begin{itemize}
 \item Mettre en place un barriérage de sécurité autour du site (installation progressive suivant l'installation),
 \item Ouvrir des voies d'accès sécurisée depuis et vers les bâtiments ainsi que les sorties du campus,
 \item Faciliter la sécurisation des livraisons, dont les manœuvres pouvaient avoir lieu dans un environnement contrôlé,
-\item Concourir à la réussite du travail des agents de sécurité en mission de gardiennage de nuit.
+\item Concourir à la réussite du travail des agents de sécurité en mission de gardiennage de nuit.\\
 \end{itemize}
 
 \subparagraph{Bénévoles}
@@ -445,29 +445,101 @@ Plusieurs périodes de présence de volontaires bénévoles avait étaient ident
 
 \section{Phase de démontage (19 mai - juin 2024)}
 
-Particulièrement orienté sur la mise en place du festival et son bon déroulement, les organisateurs ont manqué de préparation pour la phase de démontage. Un planning théorique avait été préparé, mais n'a pas été mis à jour ni suivi.
+Particulièrement orienté sur la mise en place du festival et son bon déroulement, les organisateurs ont manqué de préparation pour la phase de démontage. Un planning théorique avait été préparé, mais n'a pas été mis à jour ni suivi.\\
 
 Dans la même temporalité, les organisateurs n'ayant pas bénéficié d'un repos suffisant durant l'organisation et la tenue du festival\footnote{Une moyenne de 5h de repos par période du 24h, sur les 7 jours précédents a été observée.}, une faible productivité a été relevée.
 
 \chapter{Analyse financière}
 
-%\section{Bilan}
-%
-%\part{Opérationnel (17 mai - 18 mai 2024)}
-%\section{Sécurité}
-%
-%
-%\part{Désinstallation et rangement (19 mai - 7 juin 2024)}
-%
-%\part{Bilan moral}
-%\chapter{Partenaires}
-%
-%\part{Bilan financier}
-%\chapter{Analyse financière - passage à 2 jours}
-%
-%\subsection{subsection}
-%\subsubsection{subsubsection}
-%\paragraph{paragraph}
-%\subparagraph{subparagraph}
+\section{Aperçu global}
+\begin{itemize}
+\item Total des dépenses : 150 627,40 €
+\item Total des recettes : 150 627,40 €
+\item \textbf{Delta ($dépenses - recettes$) : 0,00 €} (\textit{budget équilibré})
+\end{itemize}
+
+\section{Ventilation des dépenses}
+\begin{itemize}
+\item Création et technique : 76,60 \% du budget total (principalement scènes, technique, artistes)
+\item Déplacements, restauration : 20,93 \%
+\item Communication : 2,46 \%
+\end{itemize}
+
+\section{Ventilation des recettes}
+\begin{itemize}
+\item FSDIE UB : 34,52 %
+\item Association (fonds propres, recettes bar) : 34,22 %
+\item Autres partenaires publics : 26,28 %
+\item Participation/bénéficiaires : 3,49 %
+\item Partenaires privés : 1,49 %
+\end{itemize}
+
+Plusieurs types d'enveloppes ressortent : 
+\begin{itemize}
+\item Financement par l'université de Bordeaux : 71 078,70 €
+\item Financement sur enveloppe CVEC (FSDIE inclus) : 69 500 €À
+\item Financement par de l'argent public\footnote{incluant les financements par l'université de Bordeaux et CVEC} : 91 578,70 € (60.80 \% des recettes)
+\end{itemize}
+
+\section{Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}
+\subsection{Montant global}
+\begin{itemize}
+\item Budget réel 2023 : 179 873,87 €
+\item Budget réel 2024 : 150 627,40 €
+\item Écart : -29 246,47 € (soit une diminution de 19,42 \%)
+\end{itemize}
+
+\subsection{Analyse par catégorie}
+\begin{center}
+\begin{table}
+\caption{Tableau}
+\begin{threeparttable}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Catégorie des dépenses & Budget réel 2023 & Budget réel 2024 & Écart & Variation (\%) \\
+\hline
+Création et technique & 113 323,51 € & 115 387,09 € & + 2 063,58 € & + 1,79 \% \\
+Déplacements, restauration & 26 963,06 € & 31 533,15 € & + 4 570,09 € & + 14,50 \% \\
+Communication & 30 311,18 €\tnote{a} & 3 707,16 € & - 26 604,02 € & - 87,72 \% \\
+\hline
+Total & 179 873.87 € & 150 627.40 € & - 29 246.47 € & - 19.42 \%\\
+\hline
+\end{tabular}
+\begin{tablenotes}
+   \item[a] Dont 12 093,76 € pour le feu d'artifice
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+\end{center}
+
+\subsection{Observations}
+\begin{itemize}
+\item Les dépenses liées à la création et technique ont été légèrement supérieure au budget de 2023, cela s'explique par le passage à 2 jours de fesival et le contexte économique actuel.
+\item Les dépenses liées aux déplacements et à la restauration ont été nettement supérieures au budget de 2023, cela correspond au changement opéré sur la restauration\footnote{Voir plus dans la partie innovations de l'édition 2024}.
+\item Les dépenses liées à la communication ont été largement inférieures au budget prévu en 2023, en effet la démarche de limitation d'impressions, le changement de prestataire et le fait de ne pas reprogrammer de feu d'artifice ont permis de diminuer dramatiquement ce poste de dépense.\\
+\end{itemize}
+
+Le budget 2024 est globalement plus restreint que celui de 2023, avec une baisse significative des dépenses de communication, compensée en partie par une augmentation des dépenses liées aux déplacements et à la restauration (elles-même conséquentes au passage à 2 jours de festival).
+
+\section{Analyse}
+\begin{itemize}
+\item Budget équilibré : L'événement prévoit des dépenses et des recettes égales, ce qui est positif.
+\item Forte dépendance aux subventions : 60,80 \% des recettes proviennent de fonds publics (FSDIE, UB, partenaires publics), ce qui peut représenter un risque si ces financements ne sont pas confirmés.
+\item Coûts de création et technique élevés : Ces coûts représentent une part importante du budget. Il pourrait être intéressant d'analyser si des économies sont possibles sur ces postes.
+\item Recettes propres non négligeables : Les recettes provenant de l'association (bar, fonds propres) sont importantes et contribuent à l'équilibre du budget.
+\end{itemize}
+
+\section{Recommandations}
+\begin{itemize}
+\item Diversifier les sources de financement : Réduire la dépendance aux subventions publiques en cherchant d'autres partenaires privés ou en augmentant les recettes propres (par exemple, en augmentant les prix au bar ou en organisant des activités payantes).
+\item Négocier les coûts de création et technique : Essayer de réduire ces coûts en négociant avec les prestataires ou en trouvant des alternatives moins coûteuses.
+\item Optimiser la communication : Le budget communication est relativement faible. Une communication efficace pourrait aider à attirer plus de participants et donc potentiellement à augmenter les recettes.
+\end{itemize}
+
+\section{Conclusion de l'analyse financière}
+Le budget prévisionnel est équilibré, mais présente des risques liés à la dépendance aux subventions publiques et aux coûts élevés de la création et de la technique. En diversifiant les sources de financement et en optimisant certains coûts, il serait possible de renforcer la solidité financière de l'événement.
+
+\chapter{Conclusion}
+%\addcontentsline{toc}{chapter}{Conclusion}
 
 \end{document}
