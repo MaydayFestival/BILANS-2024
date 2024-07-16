@@ -45,8 +45,8 @@
 \contentsline {section}{\numberline {5.1}Aperçu global}{19}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Ventilation des dépenses}{19}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Ventilation des recettes}{19}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}{19}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Montant global}{19}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.4}Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}{20}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Montant global}{20}{subsection.5.4.1}%
 \contentsline {subsection}{\numberline {5.4.2}Analyse par catégorie}{20}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}Observations}{20}{subsection.5.4.3}%
 \contentsline {section}{\numberline {5.5}Analyse}{20}{section.5.5}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  16 JUL 2024 18:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  16 JUL 2024 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -756,14 +756,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
@@ -783,7 +783,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
@@ -797,12 +797,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
@@ -813,34 +813,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--151
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 17
+2.
+(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 172.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
 [8]
 Chapitre 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
@@ -850,46 +862,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--184
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Overfull \hbox (32.14006pt too wide) in paragraph at lines 209--209
-[]|[]| 
- []
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
-
-Overfull \vbox (17.39996pt too high) detected at line 212
- []
-
-
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 229--229
-[]|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
 [9
 
 ]
+Overfull \hbox (32.14006pt too wide) in paragraph at lines 217--217
+[]|[]| 
+ []
+
+
+Overfull \vbox (17.39996pt too high) detected at line 220
+ []
+
+
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 237--237
+[]|\T1/lmss/m/n/12 (-20) Restauration|  
+ []
+
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 234.
- [10]
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 243.
+[10]
 Chapitre 3.
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
 [12{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
@@ -898,37 +914,27 @@ Chapitre 4.
 [14
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
 
  []
 
@@ -938,70 +944,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 432--433
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 
  []
 
 [17] [18]
 Chapitre 5.
 
-LaTeX Warning: Command \' invalid in math mode on input line 458.
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 484.
+(Font)              <17.28> on input line 493.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 484.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 484.
+(hyperref)                removing `math shift' on input line 493.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 484.
+(hyperref)                removing `superscript' on input line 493.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 484.
+(hyperref)                removing `math shift' on input line 493.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 484.
+(hyperref)                removing `math shift' on input line 493.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 484.
+(hyperref)                removing `superscript' on input line 493.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 493.
 
 [19
 
-{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 49
-5.
- (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 495.
-
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Overfull \hbox (13.26556pt too wide) in paragraph at lines 497--512
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 505--523
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--520
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
 
  []
 
 [20] [21]
 Chapitre 6.
 [22
+
+] [23
+
+] (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.lot)
+\tf@lot=\write6
+\openout6 = `V0_bilan_stp.lot'.
+
+
+[24
 
 ] (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.aux)
  ***********
@@ -1012,11 +1025,11 @@ Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
 (rerunfilecheck)             Checksum: 6845F5608E618A58596BCB91AA1C9987;5479.
  ) 
 Here is how much of TeX's memory you used:
- 15360 strings out of 474312
- 250080 string characters out of 5739285
+ 15372 strings out of 474312
+ 250338 string characters out of 5739285
  1938907 words of memory out of 5000000
- 37304 multiletter control sequences out of 15000+600000
- 638792 words of font info for 188 fonts, out of 8000000 for 9000
+ 37308 multiletter control sequences out of 15000+600000
+ 638676 words of font info for 187 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1011b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
@@ -1029,12 +1042,11 @@ b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 ><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb>
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
 b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.p
-fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.p
 fb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (24 pages, 293955 bytes).
+p.pdf (26 pages, 291241 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
+ 420 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
  49417 words of extra memory for PDF output out of 51595 (max. 10000000)
 
