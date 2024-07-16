@@ -27,6 +27,8 @@
 
 \renewcommand{\thefootnote}{\roman{footnote}}
 
+
+
 \title{Bilan moral du Festival Mayday \\ 6$^e$ édition - 2024}
 \author{Équipe Mayday 2024}
 \date{Vendredi 31 mai 2024}
@@ -159,7 +161,7 @@ Sur le périmètre sécurité/secours/prévention, un dispositif plus conséquen
 Dans la continuité du dispositif de gestion des déchets mis en place le vendredi, un dispositif amélioré suivant les habitudes et besoins observés a été mis en place.\\
 
 \section{Affluence}
-La fréquentation du festival a été suivie par des bénévoles postés après le pont. 
+La fréquentation du festival a été suivie par des bénévoles postés après l'entrée du festival. 2 données ont ainsi été récoltées : les pics de fréquentation (un par séquence) et le nombre d'entrées (sans distinction si un visiteur entre à de multiples reprises). Le tableau suivant présente les pics d'affluence pour chaque séquence :
 \begin{table}[h!]
 \centering
 \begin{tabular}{|c|c|c|}
@@ -172,10 +174,7 @@ Vendredi soir & Samedi après-midi & Samedi soir \\
 \caption{Tableau récapitulatif des pics de fréquentation de l'édition 2024 du festival Mayday}
 \end{table}
 
-Sur l'ensemble des deux jours, nous avons comptabilisé 17 000 entrées. Un bilan en légère baisse par rapport à l'édition précédente, mais justifié malgré une météo incertaine, notamment le vendredi soir. L'affluence est restée satisfaisante, témoignant de l'attrait du public pour la programmation éclectique et les animations proposées. Le samedi après-midi, dédié aux activités de sensibilisation et aux spectacles, a attiré un public familial, tandis que la soirée a vu une affluence plus importante, notamment grâce à la réputation grandissante du festival.
-
-%\section{Contexte}
-%Les années marquées par la pandémie "Covid-19" ont eu un fort impact sur la transmission des compétences, connaissances et réseaux des membres d'associations. Le Festival Mayday était porté depuis 2016 par le même noyau dûr, puis repris par une équipe majoritairement novice pour la 5e édition (2023). L'objectif de cette année était notamment de capitaliser sur les connaissances et réseaux restaurés sur les années précédentes. 
+Sur l'ensemble des deux jours, 17 000 entrées ont été comptabilisées. Un bilan en légère baisse par rapport à l'édition précédente, mais justifié malgré une météo incertaine, notamment le vendredi soir. L'affluence est restée satisfaisante, témoignant de l'attrait du public pour la programmation éclectique et les animations proposées. Le samedi après-midi, dédié aux activités de sensibilisation et aux spectacles, a attiré un public familial, tandis que la soirée a vu une affluence plus importante, notamment grâce à la réputation grandissante du festival.
 
 \chapter{Équipe organisatrice}
 
@@ -206,10 +205,12 @@ Sans qu'ils rentrent nécessairement dans l'une ou l'autre de ces catégories, l
 \item équipe : esprit d'équipe, sentiment d'appartenance, équipe motivée et volontaire.\\
 \end{itemize}
 
+\newpage
 Cette année, l'équipe organisatrice du Mayday était composée par :
+
 \begin{table}[h!]
 \centering
-\begin{tabular}{| m{3cm} | m{10cm} |}
+\begin{tabular}{|m{3cm}|m{10cm}|}
 \hline
 Pôle & Prénom \\ 
  \hline\hline
@@ -241,7 +242,7 @@ Transverse & \textbf{Louis Delignac}\\
 \caption{Tableau récapitulatifs des membres organisateurs du Mayday 2024}
 \end{table}
 
-\textit{Les responsables de chaque pôle sont identifiés en gras.}
+\textit{Les responsables de pôle sont identifiés en gras.}
 
 \chapter{Innovations de l'édition 2024}
 
@@ -357,6 +358,8 @@ Pour répondre aux besoins énoncés précédemment, une organisation en pôles 
 \item Transverse
 \item Trésorerie
 \end{itemize}
+
+Le tableau \ref{tab:team}
 
 \subsection{Interactions}
 Pour organiser cette $6^e$ édition, de nombreux échanges entre les différents pôles (passant notamment par leur responsable, chargé de la coordination des missions du pôle) dont étés réalisés. Ils sont catégorisés en plusieurs types, détaillés dans les sections suivantes.
