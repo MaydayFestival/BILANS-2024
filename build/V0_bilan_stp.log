@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  17 JUL 2024 00:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  17 JUL 2024 00:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -417,51 +417,31 @@ ttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box56
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count300
-\Gm@cntv=\count301
-\c@Gm@tempcnt=\count302
-\Gm@bindingoffset=\dimen170
-\Gm@wd@mp=\dimen171
-\Gm@odd@mp=\dimen172
-\Gm@even@mp=\dimen173
-\Gm@layoutwidth=\dimen174
-\Gm@layoutheight=\dimen175
-\Gm@layouthoffset=\dimen176
-\Gm@layoutvoffset=\dimen177
-\Gm@dimlist=\toks29
-
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks30
-\SOUL@lasttoken=\toks31
-\SOUL@syllable=\toks32
-\SOUL@cmds=\toks33
-\SOUL@buffer=\toks34
-\SOUL@token=\toks35
-\SOUL@syllgoal=\dimen178
-\SOUL@syllwidth=\dimen179
-\SOUL@charkern=\dimen180
-\SOUL@hyphkern=\dimen181
-\SOUL@dimen=\dimen182
-\SOUL@dimeni=\dimen183
-\SOUL@minus=\count303
-\SOUL@comma=\count304
-\SOUL@apo=\count305
-\SOUL@grave=\count306
+\SOUL@word=\toks29
+\SOUL@lasttoken=\toks30
+\SOUL@syllable=\toks31
+\SOUL@cmds=\toks32
+\SOUL@buffer=\toks33
+\SOUL@token=\toks34
+\SOUL@syllgoal=\dimen170
+\SOUL@syllwidth=\dimen171
+\SOUL@charkern=\dimen172
+\SOUL@hyphkern=\dimen173
+\SOUL@dimen=\dimen174
+\SOUL@dimeni=\dimen175
+\SOUL@minus=\count300
+\SOUL@comma=\count301
+\SOUL@apo=\count302
+\SOUL@grave=\count303
 \SOUL@spaceskip=\skip59
-\SOUL@ttwidth=\dimen184
-\SOUL@uldp=\dimen185
-\SOUL@ulht=\dimen186
+\SOUL@ttwidth=\dimen176
+\SOUL@uldp=\dimen177
+\SOUL@ulht=\dimen178
 )
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
@@ -473,14 +453,31 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
+\Gm@cnth=\count304
+\Gm@cntv=\count305
+\c@Gm@tempcnt=\count306
+\Gm@bindingoffset=\dimen179
+\Gm@wd@mp=\dimen180
+\Gm@odd@mp=\dimen181
+\Gm@even@mp=\dimen182
+\Gm@layoutwidth=\dimen183
+\Gm@layoutheight=\dimen184
+\Gm@layouthoffset=\dimen185
+\Gm@layoutvoffset=\dimen186
+\Gm@dimlist=\toks35
+
+(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 \@indexfile=\write3
 \openout3 = `V0_bilan_stp.idx'.
 
-
 Writing index file V0_bilan_stp.idx
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
-8.
+6.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -492,46 +489,46 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.aux)
 \openout1 = `V0_bilan_stp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Info: Redefining \degres on input line 38.
-LaTeX Info: Redefining \up on input line 38.
-Package hyperref Info: Link coloring OFF on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Info: Redefining \degres on input line 36.
+LaTeX Info: Redefining \up on input line 36.
+Package hyperref Info: Link coloring OFF on input line 36.
 
 (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.out)
 (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.out)
 \@outlinefile=\write4
 \openout4 = `V0_bilan_stp.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 38.
-Package microtype Info: Applying patch `item' on input line 38.
-Package microtype Info: Applying patch `toc' on input line 38.
-Package microtype Info: Applying patch `eqnum' on input line 38.
-Package microtype Info: Applying patch `footnote' on input line 38.
-Package microtype Info: Applying patch `verbatim' on input line 38.
+LaTeX Info: Redefining \microtypecontext on input line 36.
+Package microtype Info: Applying patch `item' on input line 36.
+Package microtype Info: Applying patch `toc' on input line 36.
+Package microtype Info: Applying patch `eqnum' on input line 36.
+Package microtype Info: Applying patch `footnote' on input line 36.
+Package microtype Info: Applying patch `verbatim' on input line 36.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 38.
+LaTeX Info: Redefining \showhyphens on input line 36.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -599,8 +596,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
-1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+9.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -608,31 +605,31 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
-1.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+9.
 
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-41.
+39.
 
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-41.
+39.
 
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 41.
+(Font)              <20.74> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 41.
+(Font)              <14.4> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 41.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+(Font)              <12> on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
 
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -641,7 +638,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 
 
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -651,15 +648,20 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 41.
+(Font)              <10> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 39.
 
 [1
 
 {C:/Users/duper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/dupe
 r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/duper/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
@@ -669,21 +671,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-
- []
-
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 49.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 49.
+(Font)              <6> on input line 47.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50 \end{abstract}
+l.48 \end{abstract}
                     [1]
 (C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_stp.toc
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -698,12 +695,17 @@ l.55 ...{\numberline {6}Conclusion}{22}{chapter.6}
 \openout5 = `V0_bilan_stp.toc'.
 
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
@@ -712,18 +714,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-88.
+86.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -735,6 +732,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 ]
 [5]
 Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
@@ -755,15 +757,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-
- []
-
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
@@ -783,7 +785,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--139
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
@@ -797,18 +799,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
@@ -827,25 +829,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 17
-4.
+2.
 (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 174.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 172.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 [8]
 Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
@@ -857,55 +859,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--184
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
 [9
 
 ]
-Overfull \hbox (32.14006pt too wide) in paragraph at lines 219--219
+Overfull \hbox (32.14006pt too wide) in paragraph at lines 217--217
 []|[]| 
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 222
+Overfull \vbox (17.39996pt too high) detected at line 220
  []
 
 
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 239--239
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 237--237
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 246.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 244.
 [10]
 Chapitre 3.
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
 [12{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
@@ -914,27 +911,32 @@ Chapitre 4.
 [14
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
  []
 
@@ -944,62 +946,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 437--438
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
 
  []
 
 [18]
 Chapitre 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 498.
+(Font)              <17.28> on input line 496.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 498.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 498.
+(hyperref)                removing `math shift' on input line 496.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 498.
+(hyperref)                removing `superscript' on input line 496.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 498.
+(hyperref)                removing `math shift' on input line 496.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 498.
+(hyperref)                removing `math shift' on input line 496.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 498.
+(hyperref)                removing `superscript' on input line 496.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 496.
 
 [19
 
 ]
-Overfull \hbox (13.26556pt too wide) in paragraph at lines 510--528
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 508--526
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 535--536
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
 
  []
 
@@ -1025,11 +1022,11 @@ Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
 (rerunfilecheck)             Checksum: 6845F5608E618A58596BCB91AA1C9987;5479.
  ) 
 Here is how much of TeX's memory you used:
- 15373 strings out of 474312
- 250348 string characters out of 5739285
+ 15371 strings out of 474312
+ 250324 string characters out of 5739285
  1938907 words of memory out of 5000000
  37309 multiletter control sequences out of 15000+600000
- 638676 words of font info for 187 fonts, out of 8000000 for 9000
+ 638560 words of font info for 186 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1011b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
@@ -1044,7 +1041,7 @@ b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.p
 fb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (26 pages, 291445 bytes).
+p.pdf (26 pages, 291481 bytes).
 PDF statistics:
  421 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)
