@@ -11,15 +11,15 @@
 \contentsline {chapter}{\numberline {3}Innovations de l'édition 2024}{11}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Nouveautés de l'édition 2024}{11}{section.3.1}%
 \contentsline {paragraph}{Pôle innovation écologique et sociale}{11}{section*.9}%
-\contentsline {paragraph}{Repas maison pour les équipes}{11}{section*.10}%
-\contentsline {paragraph}{Passage à 2 jours de festival}{11}{section*.11}%
-\contentsline {paragraph}{Safe zone}{11}{section*.12}%
+\contentsline {paragraph}{Repas maison pour les équipes et patente pour les food-trucks}{11}{section*.10}%
+\contentsline {paragraph}{Passage à 2 jours de festival}{12}{section*.11}%
+\contentsline {paragraph}{Safe zone}{12}{section*.12}%
 \contentsline {section}{\numberline {3.2}Améliorations}{12}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Passage à 2 jours de festival}{12}{section.3.3}%
 \contentsline {paragraph}{Objectifs du passage à 2 jours}{12}{section*.13}%
 \contentsline {paragraph}{Analyse de l'impact de cette évolution}{12}{section*.14}%
 \contentsline {subparagraph}{Plan humain}{12}{section*.15}%
-\contentsline {subparagraph}{Plan financier}{12}{section*.16}%
+\contentsline {subparagraph}{Plan financier}{13}{section*.16}%
 \contentsline {subparagraph}{Installation}{13}{section*.17}%
 \contentsline {chapter}{\numberline {4}Retour d'expérience}{14}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Phase d'organisation (août 2023 - mai 2024)}{14}{section.4.1}%

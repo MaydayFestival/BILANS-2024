@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  17 JUL 2024 00:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  17 JUL 2024 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -864,139 +864,153 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 [9
 
 ]
-Overfull \hbox (32.14006pt too wide) in paragraph at lines 217--217
+Overfull \hbox (32.14006pt too wide) in paragraph at lines 218--218
 []|[]| 
  []
 
 
-Overfull \vbox (17.39996pt too high) detected at line 220
+Overfull \vbox (17.39996pt too high) detected at line 221
  []
 
 
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 237--237
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 238--238
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 244.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 245.
 [10]
 Chapitre 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
-[12{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
-[13]
+[13{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
 Chapitre 4.
 [14
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 
  []
 
 [18]
 Chapitre 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 496.
+(Font)              <17.28> on input line 495.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 496.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 496.
+(hyperref)                removing `math shift' on input line 495.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 496.
+(hyperref)                removing `superscript' on input line 495.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 496.
+(hyperref)                removing `math shift' on input line 495.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 496.
+(hyperref)                removing `math shift' on input line 495.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 496.
+(hyperref)                removing `superscript' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 495.
 
 [19
 
 ]
-Overfull \hbox (13.26556pt too wide) in paragraph at lines 508--526
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 507--525
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--534
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
 
@@ -1022,11 +1036,11 @@ Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
 (rerunfilecheck)             Checksum: 6845F5608E618A58596BCB91AA1C9987;5479.
  ) 
 Here is how much of TeX's memory you used:
- 15371 strings out of 474312
- 250324 string characters out of 5739285
+ 15369 strings out of 474312
+ 250296 string characters out of 5739285
  1938907 words of memory out of 5000000
  37309 multiletter control sequences out of 15000+600000
- 638560 words of font info for 186 fonts, out of 8000000 for 9000
+ 638459 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,79p,1011b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
@@ -1041,7 +1055,7 @@ b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.p
 fb>
 Output written on C:\Users\duper\Documents\Mayday\BILANS-2024\build\V0_bilan_st
-p.pdf (26 pages, 291481 bytes).
+p.pdf (26 pages, 292428 bytes).
 PDF statistics:
  421 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)
