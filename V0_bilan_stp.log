@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.10)  18 JUL 2024 09:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.10)  18 JUL 2024 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -724,7 +724,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55 ...{\numberline {6}Conclusion}{23}{chapter.6}
+l.52 ...ine {5.6}Recommandations}{23}{section.5.6}
                                                   % [1
 
 ])
@@ -812,15 +812,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
  []
 
 
-
-[6
-
-]
 Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
 
+
+[6
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
@@ -948,6 +948,11 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 [10]
 Chapitre 3.
 
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
@@ -958,28 +963,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--259
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-
- []
-
-
 
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
-
- []
-
-
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
@@ -987,202 +982,209 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
 [13{C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.e
 nc}]
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+
+
+[14]
 Chapitre 4.
 
 
-[14
+[15
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-
- []
-
-
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
 
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 
  []
 
 
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 469--470
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--479
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 484--485
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 
  []
 
 
 
 [18]
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+
 
 [19]
+
+[20]
 Chapitre 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 530.
+(Font)              <17.28> on input line 529.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 530.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 530.
+(hyperref)                removing `math shift' on input line 529.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 530.
+(hyperref)                removing `superscript' on input line 529.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 530.
+(hyperref)                removing `math shift' on input line 529.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 530.
+(hyperref)                removing `math shift' on input line 529.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 530.
+(hyperref)                removing `superscript' on input line 529.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 529.
 
 
 
-[20
+[21
 
 ]
-Overfull \hbox (13.26556pt too wide) in paragraph at lines 542--560
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 541--559
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 567--568
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
 
  []
 
 
-
-[21]
 
 [22]
+
+[23]
 Chapitre 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 593--594
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--596
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 597--598
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 599--600
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--604
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
 
  []
 
 
 
-[23
+[24
 
 ] (V0_bilan_stp.lot)
 \tf@lot=\write6
@@ -1190,7 +1192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 603--604
 
 
 
-[24
+[25
 
 ] (V0_bilan_stp.aux)
  ***********
@@ -1198,16 +1200,16 @@ LaTeX2e <2024-06-01>
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 6845F5608E618A58596BCB91AA1C9987;5479.
+(rerunfilecheck)             Checksum: EE9CBFE1D667561CC7921787D6F7E5BB;6189.
  ) 
 Here is how much of TeX's memory you used:
- 15382 strings out of 473937
- 250895 string characters out of 5725482
- 1938893 words of memory out of 5000000
- 37687 multiletter control sequences out of 15000+600000
- 638863 words of font info for 189 fonts, out of 8000000 for 9000
+ 15387 strings out of 473937
+ 250958 string characters out of 5725482
+ 1939893 words of memory out of 5000000
+ 37690 multiletter control sequences out of 15000+600000
+ 638964 words of font info for 190 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,79p,1011b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,79p,1011b,707s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc
 10.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
 lmmi12.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public
@@ -1219,9 +1221,9 @@ s/type1/public/lm/lmss17.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/lm/lmss8.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/sduperret/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/lm/lmsso12.pfb>
-Output written on V0_bilan_stp.pdf (26 pages, 297713 bytes).
+Output written on V0_bilan_stp.pdf (27 pages, 300668 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
+ 444 PDF objects out of 1000 (max. 8388607)
  103 named destinations out of 1000 (max. 500000)
- 49417 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 49441 words of extra memory for PDF output out of 51595 (max. 10000000)
 
