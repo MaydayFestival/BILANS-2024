@@ -34,25 +34,27 @@
 \contentsline {subsection}{\numberline {4.1.4}Montage du projet}{19}{subsection.4.1.4}%
 \contentsline {subsubsection}{Suivi de l'avancement}{19}{section*.18}%
 \contentsline {subsubsection}{Réunions hebdomadaires}{19}{section*.19}%
-\contentsline {section}{\numberline {4.2}Phase d'installation (13 - 17 mai 2024)}{20}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Livraisons}{20}{subsection.4.2.1}%
-\contentsline {paragraph}{Méthodologie}{20}{section*.20}%
+\contentsline {paragraph}{Expérimentations de formats}{20}{section*.20}%
+\contentsline {subsection}{\numberline {4.1.5}Développement de l'image du festival}{20}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4.2}Phase d'installation (13 - 17 mai 2024)}{21}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Livraisons}{21}{subsection.4.2.1}%
+\contentsline {paragraph}{Méthodologie}{21}{section*.21}%
 \contentsline {subsection}{\numberline {4.2.2}Opérations}{21}{subsection.4.2.2}%
-\contentsline {paragraph}{Signalétique}{21}{section*.21}%
-\contentsline {paragraph}{Sécurité}{21}{section*.22}%
+\contentsline {paragraph}{Signalétique}{21}{section*.22}%
+\contentsline {paragraph}{Sécurité}{21}{section*.23}%
 \contentsline {subsection}{\numberline {4.2.3}Bénévoles}{22}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}Phase d'exploitation (17 - 18 mai 2024)}{22}{section.4.3}%
-\contentsline {subparagraph}{Partenariat pour la mobilité des festivaliers}{23}{section*.23}%
-\contentsline {section}{\numberline {4.4}Phase de démontage (19 mai - juin 2024)}{23}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Analyse financière}{24}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Aperçu global}{24}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Ventilation des dépenses}{24}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Ventilation des recettes}{24}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}{25}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Montant global}{25}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Analyse par catégorie}{25}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Observations}{25}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}Analyse}{26}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Recommandations}{26}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Conclusion de l'analyse financière}{26}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Conclusion}{27}{chapter.6}%
+\contentsline {subparagraph}{Partenariat pour la mobilité des festivaliers}{23}{section*.24}%
+\contentsline {section}{\numberline {4.4}Phase de démontage (19 mai - juin 2024)}{24}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Analyse financière}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Aperçu global}{25}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Ventilation des dépenses}{25}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Ventilation des recettes}{25}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}{26}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Montant global}{26}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Analyse par catégorie}{26}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Observations}{26}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Analyse}{27}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Recommandations}{27}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Conclusion de l'analyse financière}{27}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusion}{28}{chapter.6}%
