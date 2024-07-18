@@ -56,7 +56,7 @@ Cependant, des défis subsistent, notamment en ce qui concerne la répartition d
 
 Le Mayday Festival est une manifestation culturelle. Mêlant musique et sensibilisation aux transitions socio-environnementales, ce festival s'articule autour d'objectifs durables et ambitieux :
 \begin{itemize}
-\item Ouverture de l’accès à la culture à toutes et tous,
+\item Permettre l’accès à la culture à toutes et tous,
 \item Sensibilisation du plus grand nombre aux transitions environnementales et sociétales,
 \item Être un laboratoire d’incubation, chef de fil en matière d’événementiel éco-responsable,
 \item Mettre en avant des artistes locaux, émergents et étudiants,
@@ -339,14 +339,24 @@ Le recrutement a démarré dès le mois de juin et a duré tout au long de l’a
 \subsubsection{Réseau proche}
 Au travers d'expériences passées, les dirigeants nouvellement en poste avaient pu interagir avec d'autres étudiants. De nombreux profils ont été identifiés, cependant l'ampleur du projet, l'investissement nécessaire  et le contexte relatif à l'association ont été des facteurs limitant.
 
-\subsection{Annonce en ligne}
+\subsubsection{Annonce en ligne}
 Un appel à candidature a été lancé en septembre 2023 sur les comptes Instagram et Linkedin du Mayday pour le recrutement de l’équipe du pôle IES\footnote{innovations écologiques et sociales}.
 
 \subsection{Formation et Passation}
 
 La nouvelle équipe était principalement composée de novices dans l’organisation du Mayday, en organisation d’événement et en association.\\
 
+Cependant les formations ont été très sommaires, les fiches de postes étaient incomplètes et donnaient des indications superficielles sur les missions de chacun. Les outils de gestion de projet ont été maîtrisés au cours de l’année. De même la passation a été inégale entre les postes, seule une partie des organisateurs ont reçu un retour d’expérience de leurs prédécesseurs.\\
 
+Cela est dû à plusieurs raisons : l’absence d’une partie de l’ancienne équipe, dont l’expérience et les conseils ont parfois pu manquer. Mais aussi à cause de l’échéance de la commission FSDIE centrale de l’université de Bordeaux, a obligé à l’équipe organisatrice à prioriser le montage du projet en à peine plus d’un mois, en début négligeant la formation et les activités de cohésion. Aussi, un temps de formation mutualisé avec les autres équipes de l’association et organisé par le bureau était prévu, il n’a finalement pas eu lieu.\\
+
+Il est important que pour les éditions futures soit mis en place d’un véritable processus de recrutement :
+\begin{itemize}
+\item Appel à candidature, avec des fiches de postes claires et complètes et une sélection rigoureuse des candidats,
+\item Formation, sur le festival, sur la gestion de projet et le fonctionnement de l’association,
+\item Passation, avec le transfert d’information et les conseils des anciennes équipes.\\
+\end{itemize}
+Ce processus doit bénéficier du temps nécessaire à ce que chaque étape soit respectée et doit être accompagné par des temps de cohésion afin de pouvoir aborder l’organisation sereinement.
 
 \subsection{Pôles}
 \subsubsection{Enjeux}
@@ -362,7 +372,7 @@ La répartition des tâches d'organisation du festival s'est construite selon pl
 \item Prévention,
 \item Bilan carbone,
 \item Communication,
-\item Partenariat,
+\item Partenariats,
 \item Gestion des bénévoles,
 \item Gestion financière,
 \item Restauration des équipes,
@@ -388,36 +398,12 @@ Pour répondre aux besoins énoncés précédemment, une organisation en pôles 
 
 Le tableau \ref{tab:team} en présente les membres.
 
-\subsection{Interactions}
-Pour organiser cette $6^e$ édition, de nombreux échanges entre les différents pôles (passant notamment par leur responsable, chargé de la coordination des missions du pôle) ont été réalisés. Ils sont catégorisés en plusieurs types, détaillés dans les sections suivantes.
+\subsection{Montage du projet}
 
-\subsubsection{Administratif}
-Dans le cadre de déclarations, la mise en commun d'informations (régulièrement actualisées) était nécessaire. Elle comprenait plusieurs volets :
-\begin{itemize}
-\item Implantation (plans, visites de site),
-\item Besoins spécifiques (électricité, barrières, accès),
-\item Risques spécifiques,
-\item Utilisations particulières de matériel (non prévu dans l'usage préconisé),
-\item Installation de CTS (chapiteaux, tentes, structures),
-\item Plans alternatifs (météorologie),
-\item Suivi des dates limites de dépôts, échanges avec les autorités, suivi des nouvelles réglementations.
-\end{itemize}
+Des échanges réguliers et la présence des membres de l'équipe en réunion hebdomadaire permettaient une remontée conforme des avancées et de la direction prise par le projet auprès du public.\\
 
-\subsubsection{Communication et partenariats}
-Dans le but de mettre en avant le travail fait bénévolement par ses membres, plusieurs missions de communication avaient étés identifiées :
-\begin{itemize}
-\item l'événement,
-\item les engagements,
-\item la gestion de projet,
-\item les manifestations annexes (participations à des concours, tenue de buvettes, ...).\\
-\end{itemize}
+Sur le plan partenarial (public professionnel, politique, administration), la mise en avant des enjeux de la manifestation, ainsi que les engagements humains derrière la façade festive se faisait au travers d'une couverture photo/vidéo de nos interventions (séminaires, demandes de subventions, réunions) et de publications sur Linkedin.\\
 
-Pour cela, des échanges réguliers et la présence de l'équipe de communication en réunion hebdomadaire permettaient une remontée conforme des avancées et de la direction prise par le projet auprès du public.\\
-
-Sur le plan partenarial (public professionnel, politique, administration), la mise en avant des enjeux de la manifestation, ainsi que les engagements humains derrière la façade festive se faisait notamment au travers d'une couverture photo/vidéo de nos interventions (séminaires, demandes de subventions, réunions) et de publications sur Linkedin.
-
-
-\subsubsection{Montage de projet}
 De manière plus générale, l'ensemble du montage du projet nécessitait des échanges globaux. Ces échanges avaient principalement lieu sur un serveur Discord ou par mail.\\
 
 Une réunion hebdomadaire était organisée, permettant que l'ensemble de l'équipe ait le même niveau d'information et de voter démocratiquement les orientations prises.
@@ -425,7 +411,7 @@ Une réunion hebdomadaire était organisée, permettant que l'ensemble de l'équ
 
 \section{Phase d'installation (13 - 17 mai 2024)}
 
-\paragraph{Livraisons}
+\subsection{Livraisons}
 
 Du vendredi 10 mai au vendredi 17 mai, le festival fut mis en place. Plusieurs installations lourdes étaient nécessaires. Elles regroupent notamment les livraisons pour : 
 \begin{itemize}
@@ -441,13 +427,13 @@ Du vendredi 10 mai au vendredi 17 mai, le festival fut mis en place. Plusieurs i
 
 L'ensemble des arrivées de matériel étaient enregistrées dans un tableau de suivi. Cela permettait que les véhicules soient systématiquement accueillis par un binôme, chargé d'ouvrir (ou de demander l'ouverture, le cas échéant) la voie au véhicule, le guider à l'emplacement prévu et prévenir aux accidents (notamment avec les piétons et les cyclistes).
 
-\paragraph{Opérations}
+\subsection{Opérations}
 
-\subparagraph{Signalétique}
+\paragraph{Signalétique}
 
 Afin de prévenir les usagers et voisins du festival, les équipes du festival ont procédé à une campagne d'affichage et de dépose de flyers dans les boîtes aux lettres des riverains. Par ailleurs, l'affichage des arrêtés et de panneaux d'information sur les parkings ayant été réalisés en amont, la fermeture des parkings fût aisée. Un affichage dédié aux personnes se déplaçant sur le campus (incluant notamment un itinéraire accessible aux personnes à mobilité réduite) avait été prévu, mais sa mise en place a été trop tardive. Il apparaît,  pour les éditions suivantes, qu'un affichage la semaine précédente peut permettre de répondre aux problématiques d'information des usagers et de charge de travail des bénévoles durant l'installation. Grâce au concours du pôle patrimoine et environnement, un mail d'information avait été diffusé à la communauté universitaire (étudiants et personnels) du campus.
 
-\subparagraph{Sécurité}
+\paragraph{Sécurité}
 
 Plusieurs enjeux de sécurité coexistaient durant les temps d'installation et de mise en place du festival : 
 \begin{itemize}
@@ -475,7 +461,7 @@ Un arrêté du président de l'université de Bordeaux prévoyait, dès le débu
 \item Concourir à la réussite du travail des agents de sécurité en mission de gardiennage de nuit.\\
 \end{itemize}
 
-\subparagraph{Bénévoles}
+\subsection{Bénévoles}
 
 Plusieurs périodes de présence de volontaires bénévoles avaient été identifiées en amont (appel à bénévoles en janvier 2024). Soutien très important au bon déroulement des opérations d'installation, plusieurs points ressortent cependant : 
 \begin{itemize}
