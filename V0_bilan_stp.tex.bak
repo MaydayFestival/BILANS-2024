@@ -161,7 +161,7 @@ Sur le périmètre sécurité/secours/prévention, un dispositif plus conséquen
 Dans la continuité du dispositif de gestion des déchets mis en place le vendredi, un dispositif amélioré suivant les habitudes et besoins observés a été mis en place.
 
 \section{Affluence}
-La fréquentation du festival a été suivie par des bénévoles postés après l'entrée du festival. Deux données ont ainsi été récoltées : les pics de fréquentation (un par séquence) et le nombre d'entrées (sans distinction si un visiteur entre à de multiples reprises). Le tableau suivant présente les pics d'affluence pour chaque séquence :
+La fréquentation du festival a été mesurée par des bénévoles postés après l'entrée du festival. Deux types de données ont ainsi été récoltées : les pics de fréquentation (un par séquence) et le nombre d'entrées (sans distinction si un même visiteur entre à de multiples reprises). Le tableau suivant présente les pics d'affluence pour chaque séquence :
 \begin{table}[h!]
 \centering
 \begin{tabular}{|c|c|c|}
@@ -174,7 +174,7 @@ Vendredi soir & Samedi après-midi & Samedi soir \\
 \caption{Tableau récapitulatif des pics de fréquentation de l'édition 2024 du festival Mayday}
 \end{table}
 
-Sur l'ensemble des deux jours, 17 000 entrées ont été comptabilisées. Un bilan en légère baisse par rapport à l'édition précédente, mais justifié malgré une météo incertaine, notamment le vendredi soir. L'affluence est restée satisfaisante, témoignant de l'attrait du public pour la programmation éclectique et les animations proposées. Le samedi après-midi, dédié aux activités de sensibilisation et aux spectacles, a attiré un public familial, tandis que la soirée a vu une affluence plus importante, notamment grâce à la réputation grandissante du festival.
+Sur l'ensemble des deux jours, nous avons comptabilisé 17 000 entrées. Un bilan en légère baisse par rapport à l'édition précédente, mais justifié malgré une météo incertaine, notamment le vendredi soir. L'affluence est restée satisfaisante, témoignant de l'attrait du public pour la programmation  et les animations proposées. Le samedi après-midi, dédié aux activités de sensibilisation et aux spectacles, a attiré un public familial, tandis que la soirée a vu une affluence plus importante, notamment grâce à la réputation grandissante du festival.
 
 \chapter{Équipe organisatrice}
 
@@ -297,13 +297,13 @@ Dans la continuité, sur le plan financier :
 Le bilan financier de cette édition fait état d'un \textbf{équilibre entre les recettes et les dépenses}. \textbf{L'augmentation à 2 jours de festival n'a pas eu d'impact délétère}. Une partie ultérieure du rapport est dédiée à l'analyse du budget de cette édition.
 
 \subparagraph{Installation}
-Le bon déroulement de cette soirée additionnelle a nécessité une installation anticipée de l'ensemble du matériel. Ainsi, à la place de commencer usuellement à J-3 ou J-4, les premières installations et réceptions de matériels ont eu lieu à J-7. Par ailleurs, le festival ayant normalement lieu le samedi, le campus n'était pas occupé. Pour cette édition, nous avons dû nous adapter pour ne pas gêner les activités universitaires habituelles, particulièrement le vendredi avec les balances. Cette adaptation a largement était accompagnée par l'université de Bordeaux\footnote{notamment par le service scolarité du collège sciences et technologies (cours déplacés dans d'autres bâtiments), le bureau de la vie étudiante du campus de Talence et la direction des services à l'occupant Peixotto-Bordes}.
+Le bon déroulement de cette soirée additionnelle a nécessité une installation anticipée de l'ensemble du matériel. Ainsi, à la place de commencer usuellement à J-3 ou J-4, les premières installations et réceptions de matériels ont eu lieu à J-7. Par ailleurs, le festival ayant normalement lieu le samedi, le campus n'était pas occupé. Pour cette édition, l’adaptation a été de rigueur pour ne pas gêner les activités universitaires, particulièrement le vendredi matin avec les balances. Cette adaptation a largement été accompagnée par l'université de Bordeaux\footnote{notamment par le service scolarité du collège sciences et technologies (cours déplacés dans d'autres bâtiments), le bureau de la vie étudiante du campus de Talence et la direction des services à l'occupant Peixotto-Bordes}.
 
 \section{Buvette}
-Un changement notable a également pris place derrière dans les buvettes. En effet, depuis plusieurs années le Mayday travaillait avec une brasserie située à 40 km du festival. Avec cette évolution, notre nouveau partenaire se situe directement à Bordeaux (à 5 km des scènes). Ses engagements sont davantage en symbiose avec le festival.\\
+Un changement notable a également pris place derrière dans les buvettes. En effet, depuis plusieurs années le Mayday travaillait avec une brasserie située à 40 km du festival. Avec cette évolution, notre nouveau partenaire se situe directement à Bordeaux (à 5 km des scènes) et ses engagements sont davantage en symbiose avec le festival. De plus, 2 types de bières étaient proposées : blonde et blanche.
 
 \section{Pilotage en coordination avec les partenaires}
-
+Poursuivant un idéal de co-construction, les organisateurs ont régulièrement rencontré plusieurs partenaires\footnote{université de Bordeaux, CROUS Bordeaux-Aquitaine, Mairie de Talence et Talence événements} pour évoquer les évolutions du festival et des pistes d’amélioration. Ce travail a vocation à être poursuivi et accentué pour les prochaines éditions.
 
 \section{Améliorations}
 Cette édition s'est particulièrement distinguée en dépassant plusieurs records, établis sur les 5 premières éditions du festival. En effet, le nombre de partenaires du festival, le nombre de bénévoles impliqués les Jours J et dans l'organisation en amont ont étés nettement supérieurs. Toujours dans la dynamique d'offrir la possibilité au plus grand nombre d'artistes, notamment émergeant, de se produire sur les scènes du Mayday et permettre un accès gratuit aux arts, le nombre de groupes accueillis a été doublé.\\
@@ -318,6 +318,8 @@ En 2024, 84 structures partenaires ont été recensées :
 \item 1 service départemental,
 \item 2 services déconcentrés.\\
 \end{itemize}
+
+Il semble aussi important de souligner les horizons esquissés avec le pôle patrimoine et environnement de l'université de Bordeaux : l'évolution des installations électriques sur le campus permettrait de réduire plus encore le coût environnemental et pécuniaire du festival.
 
 \chapter{Retour d'expérience}
 
@@ -491,6 +493,11 @@ Le retour du voisinage a été globalement positif, mais des améliorations sont
 
 Il est important de souligner que certaines décisions importantes ont dû être prises rapidement et sans consultation démocratique. Ces éléments méritent d’être étudiés, concernant notamment la répartition des responsabilités et leur impact juridique.
 
+\subparagraph{Partenariat pour la mobilité des festivaliers}
+S'inscrivant dans une dynamique de diminution de l'empreinte carbone, le festival a reçu conseil de l'institut des transitions de l'université de Bordeaux. Il a été porté à la connaissance des organisateurs que nouer un partenariat avec Karos (société qui anime une plateforme de covoiturage) apparaît avec un double intérêt :  favoriser la venue des festivaliers avec une mobilité plus respectueuse de l'environnement et apporter des recettes supplémentaires. La société a été présente pendant le festival, mais a connu peu de succès.\\
+
+A posteriori de l'événement, il ressort une forte difficulté pour avoir des réponses de la part des interlocuteurs habituels des organisateurs. Au 18 juillet, aucun bilan de ce partenariat n'a pu être établi malgré de nombreuses relances de la part des organisateurs du festival.
+
 \section{Phase de démontage (19 mai - juin 2024)}
 
 Particulièrement orienté sur la mise en place du festival et son bon déroulement, les organisateurs ont manqué de préparation pour la phase de démontage. Un planning théorique avait été préparé, mais n'a pas été mis à jour ni suivi.\\
@@ -502,31 +509,31 @@ Dans la même temporalité, les organisateurs n'ayant pas bénéficié d'un repo
 \section{Aperçu global}
 \begin{itemize}
 \item Total des dépenses : 150 627,40 €
-\item Total des recettes : 150 627,40 €
-\item \textbf{Delta\footnote{différence numéraire en dépenses et recettes} : 0,00 €} \textit{(budget équilibré)}
+\item Total des recettes : 150 043,28 €
+\item \textbf{Delta\footnote{différence numéraire en dépenses et recettes} : - 583,72 €} (- 0,39\%)
 \end{itemize}
 
 \section{Ventilation des dépenses}
 \begin{itemize}
-\item Création et technique : 76,60 \% du budget total (principalement scènes, technique, artistes)
+\item Création et technique : 76,60 \% (principalement scènes, technique, artistes)
 \item Déplacements, restauration : 20,93 \%
-\item Communication : 2,46 \%
+\item Communication : 2,46 \%\\
 \end{itemize}
 
 \section{Ventilation des recettes}
 \begin{itemize}
 \item FSDIE UB : 34,52 \%
-\item Association (fonds propres, recettes bar) : 34,22 \%
+\item Association (fonds propres, recettes bar et événements annexes) : 34,22 \%
 \item Autres partenaires publics : 26,28 \%
 \item Participation/bénéficiaires : 3,49 \%
-\item Partenaires privés : 1,49 \%\\
+\item Partenaires privés : 1,49 \%
 \end{itemize}
 
 Plusieurs types d'enveloppes peuvent se distinguer : 
 \begin{itemize}
 \item Financement par l'université de Bordeaux : 71 078,70 €
-\item Financement sur enveloppe CVEC\footnote{incluant le financement via le FSDIE} : 69 500 €
-\item Financement par de l'argent public\footnote{incluant les financements par l'université de Bordeaux et CVEC} : 91 578,70 € (60.80 \% des recettes)
+\item Financement sur enveloppe CVEC\footnote{incluant le financement via les commissions du FSDIE} : 69 500 €
+\item Financement par de l'argent public\footnote{incluant les financements sus-mentionnés} : 91 578,70 € (60.80 \% des recettes)
 \end{itemize}
 
 \section{Comparaison du budget entre la 5$^e$ et la 6$^e$ édition}
@@ -538,8 +545,8 @@ Plusieurs types d'enveloppes peuvent se distinguer :
 \end{itemize}
 
 \subsection{Analyse par catégorie}
-\begin{center}
 \begin{table}[h!]
+\centering
 \begin{threeparttable}
 \begin{tabular}{|c|c|c|c|c|}
 \hline
@@ -552,6 +559,9 @@ Soutien complémentaire\tnote{b} & 9 276,12 € & 0 € & - 9276,12 & - 100 \%\\
 \hline
 Total & 179 873.87 € & 150 627.40 € & - 29 246.47 € & - 16,26 \%\\
 \hline
+\hline
+Déficit & 36 733,11 € & 583,72 € & - 36 149,39 € & - 98,41 \%\\
+\hline
 \end{tabular}
 \caption{Tableau comparatif des budgets 2023 et 2024 du festival Mayday}
 \begin{tablenotes}
@@ -560,7 +570,6 @@ Total & 179 873.87 € & 150 627.40 € & - 29 246.47 € & - 16,26 \%\\
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
-\end{center}
 
 \subsection{Observations}
 \begin{itemize}
@@ -573,7 +582,7 @@ Le budget 2024 est globalement plus restreint que celui de 2023, avec une baisse
 
 \section{Analyse}
 \begin{itemize}
-\item \textbf{Budget équilibré} : Le budget fait état de dépenses et de recettes égales, ce qui est positif.
+\item \textbf{Budget équilibré} : Le budget fait état de dépenses et de recettes quasiment égales, ce qui est encourageant après l'édition 2023.
 \item \textbf{Forte dépendance aux subventions} : 60,80 \% des recettes proviennent de fonds publics (FSDIE, UB, partenaires publics), ce qui peut représenter un risque si ces financements ne sont pas confirmés ou maintenus.
 \item \textbf{Coûts de création et technique élevés} : Ces coûts représentent une part importante du budget. Il pourrait être intéressant d'analyser si des économies sont possibles sur ces postes.
 \item \textbf{Recettes des buvettes non négligeables} : Les recettes provenant de la vente (bières et limonade) sont importantes et contribuent à l'équilibre du budget (32,23 \%).
