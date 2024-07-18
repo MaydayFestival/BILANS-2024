@@ -174,7 +174,14 @@ Vendredi soir & Samedi après-midi & Samedi soir \\
 \caption{Tableau récapitulatif des pics de fréquentation de l'édition 2024 du festival Mayday}
 \end{table}
 
-Sur l'ensemble des deux jours, nous avons comptabilisé 17 000 entrées. Un bilan en légère baisse par rapport à l'édition précédente, mais justifié malgré une météo incertaine, notamment le vendredi soir. L'affluence est restée satisfaisante, témoignant de l'attrait du public pour la programmation  et les animations proposées. Le samedi après-midi, dédié aux activités de sensibilisation et aux spectacles, a attiré un public familial, tandis que la soirée a vu une affluence plus importante, notamment grâce à la réputation grandissante du festival.
+Sur l'ensemble des deux jours, le festival a comptabilisé 17 000 entrées. Un bilan en légère baisse par rapport à l'édition précédente, mais justifié malgré :
+\begin{itemize}
+\item Conditions météorologiques : Les prévisions incertaines, sur les deux soirs, ont pu dissuader certains participants.
+\item Concurrence d'événements similaires : La tenue simultanée du Millésime Festival, ciblant un public qui plébiscite la tête d’affiche du Mayday à La Réole, a pu entraîner une dispersion de l'audience potentielle.
+\item Proximité d'un autre événement : Le Mai Talençais, se déroulant à proximité immédiate, a pu attirer une partie du public local.
+\item Communication tardive : Le déploiement tardif de la communication, notamment des affiches, a pu limiter la portée de l'information et donc la mobilisation du public.\\
+\end{itemize}
+L'affluence est restée satisfaisante, témoignant de l'attrait du public pour la programmation  et les animations proposées. Le samedi après-midi, dédié aux activités de sensibilisation et aux spectacles, a attiré un public familial, tandis que la soirée a vu une affluence plus importante, notamment grâce à la réputation grandissante du festival.
 
 \chapter{Équipe organisatrice}
 
@@ -400,14 +407,22 @@ Le tableau \ref{tab:team} en présente les membres.
 
 \subsection{Montage du projet}
 
-Des échanges réguliers et la présence des membres de l'équipe en réunion hebdomadaire permettaient une remontée conforme des avancées et de la direction prise par le projet auprès du public.\\
+\subsubsection{Suivi de l'avancement}
+L'ensemble du montage du projet nécessitait des échanges entre les organisateurs. Ces échanges avaient principalement lieu sur un serveur Discord ou par mail.\\
 
-Sur le plan partenarial (public professionnel, politique, administration), la mise en avant des enjeux de la manifestation, ainsi que les engagements humains derrière la façade festive se faisait au travers d'une couverture photo/vidéo de nos interventions (séminaires, demandes de subventions, réunions) et de publications sur Linkedin.\\
+Un rétro-planning initial a été établi en début d'année, mais son suivi s'est avéré incomplet et le document lacunaire. De plus, certains pôles ont maintenu des plannings indépendants, ce qui a engendré un manque de contrôle global sur les délais. Cette situation a conduit à l'annulation de plusieurs projets annexes en raison de retards et de non-respect des échéances.\\
 
-De manière plus générale, l'ensemble du montage du projet nécessitait des échanges globaux. Ces échanges avaient principalement lieu sur un serveur Discord ou par mail.\\
+Pour faciliter le suivi, des réunions hebdomadaires ont été observées tout au long de l’année.
 
-Une réunion hebdomadaire était organisée, permettant que l'ensemble de l'équipe ait le même niveau d'information et de voter démocratiquement les orientations prises.
+\subsubsection{Réunions hebdomadaires}
+Afin de garantir une communication transversale efficace et une prise de décision démocratique au sein de l'équipe, des réunions hebdomadaires ont été instaurées. Les membres de chaque pôle faisaient remonter l’avancement de leurs missions à leur responsable qui le fait remonter au Directeur Général. Ce dernier préparait ensuite l’ordre du jour en fonction des retours.\\
 
+Ces réunions, chaque mardi de 18h30 à 22h, avaient pour objectif de :
+\begin{itemize}
+\item Informer l'ensemble des collaborateurs et la direction sur l'avancement du projet,
+\item Permettre un débat entre les membres de l’équipe
+\item Organiser des votes démocratiques sur les décisions à prendre.
+\end{itemize}
 
 \section{Phase d'installation (13 - 17 mai 2024)}
 
