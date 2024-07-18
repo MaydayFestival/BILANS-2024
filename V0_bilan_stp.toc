@@ -43,8 +43,8 @@
 \contentsline {paragraph}{Signalétique}{21}{section*.22}%
 \contentsline {paragraph}{Sécurité}{21}{section*.23}%
 \contentsline {subsection}{\numberline {4.2.3}Bénévoles}{22}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Phase d'exploitation (17 - 18 mai 2024)}{22}{section.4.3}%
-\contentsline {subparagraph}{Partenariat pour la mobilité des festivaliers}{23}{section*.24}%
+\contentsline {section}{\numberline {4.3}Phase d'exploitation (17 - 18 mai 2024)}{23}{section.4.3}%
+\contentsline {subparagraph}{Partenariat pour la mobilité des festivaliers}{24}{section*.24}%
 \contentsline {section}{\numberline {4.4}Phase de démontage (19 mai - juin 2024)}{24}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Analyse financière}{25}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Aperçu global}{25}{section.5.1}%

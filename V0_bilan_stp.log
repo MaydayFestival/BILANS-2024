@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  19 JUL 2024 01:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  19 JUL 2024 01:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -684,7 +684,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 ...ine {5}Analyse financière}{24}{chapter.5}
+l.49 ...ine {5}Analyse financière}{25}{chapter.5}
                                                   % [1
 
 ])
@@ -991,18 +991,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 442--443
 
  []
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 
  []
 
@@ -1012,26 +1012,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 491--492
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 511--512
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 514--515
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 
  []
 
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 518--519
 
  []
@@ -1067,62 +1067,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 530--531
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 535--536
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 541--542
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
 
  []
 
-[23] [24]
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+
+ []
+
+[24]
 Chapitre 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 577.
+(Font)              <17.28> on input line 579.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 577.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 577.
+(hyperref)                removing `math shift' on input line 579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 577.
+(hyperref)                removing `superscript' on input line 579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 577.
+(hyperref)                removing `math shift' on input line 579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 577.
+(hyperref)                removing `math shift' on input line 579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 577.
+(hyperref)                removing `superscript' on input line 579.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 579.
 
 [25
 
 ]
-Overfull \hbox (13.26556pt too wide) in paragraph at lines 589--610
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 591--612
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 616--617
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
  []
 
 [26] [27]
 Chapitre 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 642--643
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 644--645
 
@@ -1148,6 +1148,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 652--653
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 654--655
+
+ []
+
 [28
 
 ] (V0_bilan_stp.lot)
@@ -1161,24 +1166,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 652--653
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-
-
-Package rerunfilecheck Warning: File `V0_bilan_stp.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `V0_bilan_stp.out':
-(rerunfilecheck)             Before: 946F0079F10A8B3CAC2CC0DFFA94A04F;7123
-(rerunfilecheck)             After:  9F2366942A525E9CF20D45FF2AFE01FA;7380.
+Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
+(rerunfilecheck)             Checksum: 9F2366942A525E9CF20D45FF2AFE01FA;7380.
  ) 
 Here is how much of TeX's memory you used:
- 15402 strings out of 474312
- 250249 string characters out of 5739285
+ 15406 strings out of 474312
+ 250303 string characters out of 5739285
  1938907 words of memory out of 5000000
- 37318 multiletter control sequences out of 15000+600000
- 638993 words of font info for 190 fonts, out of 8000000 for 9000
+ 37319 multiletter control sequences out of 15000+600000
+ 639109 words of font info for 191 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,79p,1011b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,79p,1011b,692s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
 fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
 fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pf
@@ -1190,9 +1188,9 @@ b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 <C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
 b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.p
 fb>
-Output written on V0_bilan_stp.pdf (31 pages, 310970 bytes).
+Output written on V0_bilan_stp.pdf (31 pages, 312811 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
- 49489 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 504 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 49497 words of extra memory for PDF output out of 51595 (max. 10000000)
 
