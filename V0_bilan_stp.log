@@ -1,162 +1,175 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.31)  19 JUL 2024 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.10)  19 JUL 2024 13:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./V0_bilan_stp.tex
 (V0_bilan_stp.tex
-LaTeX2e <2023-11-01> patch level 1
+LaTeX2e <2024-06-01>
 L3 programming layer <2024-05-08>
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
-Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count189
-\c@chapter=\count190
-\c@section=\count191
-\c@subsection=\count192
-\c@subsubsection=\count193
-\c@paragraph=\count194
-\c@subparagraph=\count195
-\c@figure=\count196
-\c@table=\count197
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/05/18 v24.5 The Babel package
-\babel@savecnt=\count198
-\U@D=\dimen141
+\babel@savecnt=\count269
+\U@D=\dimen142
 \l@unhyphenated=\language79
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.de
+f)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count199
+\bbl@dirlevel=\count270
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
-df
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\fren
+ch.ldf
 Language: french 2024-05-24 v3.6a French support from the babel system
 Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language22). Reported on input line 91.
 Package babel Info: Hyphen rules for 'canadien' set to \l@french
 (babel)             (\language22). Reported on input line 92.
-\FB@stdchar=\count266
+\FB@stdchar=\count271
 Package babel Info: Making : an active character on input line 422.
 Package babel Info: Making ; an active character on input line 423.
 Package babel Info: Making ! an active character on input line 424.
 Package babel Info: Making ? an active character on input line 425.
-\FBguill@level=\count267
+\FBguill@level=\count272
 \FBold@everypar=\toks19
-\FB@Mht=\dimen142
-\mc@charclass=\count268
-\mc@charfam=\count269
-\mc@charslot=\count270
-\std@mcc=\count271
-\dec@mcc=\count272
-\FB@parskip=\dimen143
-\listindentFB=\dimen144
-\descindentFB=\dimen145
-\labelindentFB=\dimen146
-\labelwidthFB=\dimen147
-\leftmarginFB=\dimen148
-\parindentFFN=\dimen149
-\FBfnindent=\dimen150
+\FB@Mht=\dimen143
+\mc@charclass=\count273
+\mc@charfam=\count274
+\mc@charslot=\count275
+\std@mcc=\count276
+\dec@mcc=\count277
+\FB@parskip=\dimen144
+\listindentFB=\dimen145
+\descindentFB=\dimen146
+\labelindentFB=\dimen147
+\labelwidthFB=\dimen148
+\leftmarginFB=\dimen149
+\parindentFFN=\dimen150
+\FBfnindent=\dimen151
 ))
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
--french.tex
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\b
+abel-french.tex
 Package babel Info: Importing font and identification data for french
 (babel)             from babel-fr.ini. Reported on input line 11.
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.s
+ty)
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.s
+ty
 Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys
+.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvde
+finekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfesca
+pe.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.s
+ty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftex
+cmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infware
+rr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.st
+y
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.s
+ty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\ge
+ttitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions
+.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count273
+\c@section@level=\count278
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
-)
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.s
 ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
+)
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringe
+nc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen151
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
- (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+\@linkdim=\dimen152
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
+
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+)
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.s
+ty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count277
- (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+\Hy@SavedSpaceFactor=\count282
+
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -168,26 +181,25 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count278
-
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip16
+\c@Hy@tempcnt=\count283
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen152
+\XeTeXLinkMargin=\dimen153
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigint
+calc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count279
-\Field@Width=\dimen153
-\Fld@charsize=\dimen154
+\Fld@menulength=\count284
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -196,140 +208,147 @@ Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.s
+ty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.de
+f
 File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.
+sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\reru
+nfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uni
+quecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip50
+\Hy@SectionHShift=\skip51
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype
+.sty
 Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
 \MT@toks=\toks21
-\MT@tempbox=\box51
-\MT@count=\count285
+\MT@tempbox=\box52
+\MT@count=\count290
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
 LaTeX Info: Redefining \leftprotrusion on input line 1062.
 \MT@prot@toks=\toks22
 LaTeX Info: Redefining \rightprotrusion on input line 1081.
 LaTeX Info: Redefining \textls on input line 1392.
-\MT@outer@kern=\dimen155
+\MT@outer@kern=\dimen156
 LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
-\MT@listname@count=\count286
+\MT@listname@count=\count291
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
-tex.def
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype
+-pdftex.def
 File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip51
+\MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype
+.cfg
 File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
-)) (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+))
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip52
-
+\@mathmargin=\skip53
 For additional information on amsmath, use the `?' option.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
-\ex@=\dimen156
+\ex@=\dimen157
 ))
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen157
-)
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+\pmbraise@=\dimen158
+) (C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count287
+\inf@bad=\count292
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count288
-\leftroot@=\count289
+\uproot@=\count293
+\leftroot@=\count294
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count290
-\DOTSCASE@=\count291
+\classnum@=\count295
+\DOTSCASE@=\count296
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
+\Mathstrutbox@=\box53
+\strutbox@=\box54
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen158
+\big@size=\dimen159
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count292
+\macc@depth=\count297
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count293
-\dotsspace@=\muskip17
-\c@parentequation=\count294
-\dspbrk@lvl=\count295
+\c@MaxMatrixCols=\count298
+\dotsspace@=\muskip18
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
 \tag@help=\toks24
-\row@=\count296
-\column@=\count297
-\maxfields@=\count298
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
 \andhelp@=\toks25
-\eqnshift@=\dimen159
-\alignsep@=\dimen160
-\tagshift@=\dimen161
-\tagwidth@=\dimen162
-\totwidth@=\dimen163
-\lineht@=\dimen164
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
 \@envbody=\toks26
-\multlinegap=\skip53
-\multlinetaggap=\skip54
+\multlinegap=\skip54
+\multlinetaggap=\skip55
 \mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.s
+ty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -337,30 +356,35 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.st
+y
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
+ty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
+cs.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex
+.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen165
-\Gin@req@width=\dimen166
-) (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+)
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -395,32 +419,33 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen167
-\ar@mcellbox=\box54
-\extrarowheight=\dimen168
+\col@sep=\dimen168
+\ar@mcellbox=\box55
+\extrarowheight=\dimen169
 \NC@list=\toks28
-\extratabsurround=\skip55
-\backup@length=\skip56
-\ar@cellbox=\box55
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box56
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.s
+ty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip57
-\multirow@cntb=\count299
-\multirow@dima=\skip58
-\bigstrutjot=\dimen169
+\multirow@colwidth=\skip58
+\multirow@cntb=\count304
+\multirow@dima=\skip59
+\bigstrutjot=\dimen170
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
-ttable.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\thre
+eparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box56
+\@tempboxb=\box57
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@word=\toks29
 \SOUL@lasttoken=\toks30
@@ -428,64 +453,73 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@cmds=\toks32
 \SOUL@buffer=\toks33
 \SOUL@token=\toks34
-\SOUL@syllgoal=\dimen170
-\SOUL@syllwidth=\dimen171
-\SOUL@charkern=\dimen172
-\SOUL@hyphkern=\dimen173
-\SOUL@dimen=\dimen174
-\SOUL@dimeni=\dimen175
-\SOUL@minus=\count300
-\SOUL@comma=\count301
-\SOUL@apo=\count302
-\SOUL@grave=\count303
-\SOUL@spaceskip=\skip59
-\SOUL@ttwidth=\dimen176
-\SOUL@uldp=\dimen177
-\SOUL@ulht=\dimen178
+\SOUL@syllgoal=\dimen171
+\SOUL@syllwidth=\dimen172
+\SOUL@charkern=\dimen173
+\SOUL@hyphkern=\dimen174
+\SOUL@dimen=\dimen175
+\SOUL@dimeni=\dimen176
+\SOUL@minus=\count305
+\SOUL@comma=\count306
+\SOUL@apo=\count307
+\SOUL@grave=\count308
+\SOUL@spaceskip=\skip60
+\SOUL@ttwidth=\dimen177
+\SOUL@uldp=\dimen178
+\SOUL@ulht=\dimen179
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds
+.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)) (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+))
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.
+cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-) (C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.
+ltx))
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.s
+ty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count304
-\Gm@cntv=\count305
-\c@Gm@tempcnt=\count306
-\Gm@bindingoffset=\dimen179
-\Gm@wd@mp=\dimen180
-\Gm@odd@mp=\dimen181
-\Gm@even@mp=\dimen182
-\Gm@layoutwidth=\dimen183
-\Gm@layoutheight=\dimen184
-\Gm@layouthoffset=\dimen185
-\Gm@layoutvoffset=\dimen186
+\Gm@cnth=\count309
+\Gm@cntv=\count310
+\c@Gm@tempcnt=\count311
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
 \Gm@dimlist=\toks35
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.c
+fg))
 \@indexfile=\write3
 \openout3 = `V0_bilan_stp.idx'.
+
 
 Writing index file V0_bilan_stp.idx
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
 6.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
+-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count307
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count312
+\l__pdf_internal_box=\box58
 ) (V0_bilan_stp.aux)
 \openout1 = `V0_bilan_stp.aux'.
 
@@ -535,29 +569,29 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
+f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count308
-\scratchdimen=\dimen187
-\scratchbox=\box58
-\nofMPsegments=\count309
-\nofMParguments=\count310
+\scratchcounter=\count313
+\scratchdimen=\dimen188
+\scratchbox=\box59
+\nofMPsegments=\count314
+\nofMParguments=\count315
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count311
-\MPscratchDim=\dimen188
-\MPnumerator=\count312
-\makeMPintoPDFobject=\count313
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen189
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
 \everyMPtoPDFconversion=\toks37
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
+df-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-s
+ys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -596,29 +630,29 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
 9.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cf
+g
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
 9.
-
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+ (C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
 39.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
 39.
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -630,19 +664,20 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
 
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cf
+g
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 
-
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+ (C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cf
+g
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -650,11 +685,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 39.
 
+
 [1
 
-{C:/Users/duper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/dupe
-r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/duper/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+{C:/Users/sduperret/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/
+sduperret/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/
+sduperret/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 41.
+
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
@@ -669,10 +710,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 47.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 47.
+
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -680,6 +719,8 @@ been already used, duplicate ignored
                    \relax 
 l.48 \end{abstract}
                     [1] (V0_bilan_stp.toc
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -691,7 +732,9 @@ l.49 ...ine {5}Analyse financière}{25}{chapter.5}
 \tf@toc=\write5
 \openout5 = `V0_bilan_stp.toc'.
 
- [2]
+
+
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
@@ -711,6 +754,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
+
+
 [3]
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
@@ -718,18 +763,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
 86.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [4{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
-]
+
+
+[4{C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.e
+nc}]
 Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
+
+
 
 [5]
 Chapitre 1.
@@ -763,6 +812,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
+
+
 [6
 
 ]
@@ -791,11 +842,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
  []
 
 
+
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
@@ -805,97 +858,100 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-
- []
-
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 17
-4.
-(C:\Users\duper\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
+5.
+(C:\Users\sduperret\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 174.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 165.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
+
+
+[8]
+
 [9]
 Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
- []
+[10
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
-
- []
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
-
- []
-
-[10
-
-] [11]
-Overfull \hbox (32.14006pt too wide) in paragraph at lines 227--227
+Overfull \hbox (32.14006pt too wide) in paragraph at lines 218--218
 []|[]| 
  []
 
 
-Overfull \vbox (18.85005pt too high) detected at line 230
+Overfull \vbox (18.85005pt too high) detected at line 221
  []
 
 
-Overfull \hbox (1.72902pt too wide) in paragraph at lines 247--247
+Overfull \hbox (1.72902pt too wide) in paragraph at lines 238--238
 []|\T1/lmss/m/n/12 (-20) Restauration|  
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 254.
-[12]
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 245.
+
+
+[11]
 Chapitre 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
@@ -905,79 +961,105 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--264
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
- []
+[12
 
-[13
-
-] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-
- []
-
-[15{C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+]
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
+
+[14{C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.e
+nc}]
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+
 
 [16]
 Chapitre 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 
  []
+
+
 
 [17
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
+
+
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
-
- []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
 
@@ -987,22 +1069,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 427--428
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
-
- []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 
  []
 
@@ -1012,19 +1098,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 491--492
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--494
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
 
  []
+
+
 
 [22]
 Underfull \hbox (badness 10000) in paragraph at lines 516--517
@@ -1032,126 +1120,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 516--517
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--527
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 528--529
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--531
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--533
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+
+ []
+
+
+
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 537--538
 
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 543--544
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+
 
 [24]
 Chapitre 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 579.
+(Font)              <17.28> on input line 590.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 579.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 579.
+(hyperref)                removing `math shift' on input line 590.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 579.
+(hyperref)                removing `superscript' on input line 590.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 579.
+(hyperref)                removing `math shift' on input line 590.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 579.
+(hyperref)                removing `math shift' on input line 590.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 579.
+(hyperref)                removing `superscript' on input line 590.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 590.
+
+
 
 [25
 
 ]
-Overfull \hbox (13.26556pt too wide) in paragraph at lines 591--612
+Overfull \hbox (13.26556pt too wide) in paragraph at lines 602--623
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
-
- []
-
-[26] [27]
-Chapitre 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 644--645
+Underfull \hbox (badness 10000) in paragraph at lines 629--630
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--647
+
+[26]
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 655--656
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 654--655
+Underfull \hbox (badness 10000) in paragraph at lines 663--664
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--666
+
+ []
+
+
 
 [28
 
@@ -1159,38 +1282,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 654--655
 \tf@lot=\write6
 \openout6 = `V0_bilan_stp.lot'.
 
- [29
+
+
+[29
 
 ] (V0_bilan_stp.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
+LaTeX2e <2024-06-01>
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `V0_bilan_stp.out' has not changed.
-(rerunfilecheck)             Checksum: 9F2366942A525E9CF20D45FF2AFE01FA;7380.
+(rerunfilecheck)             Checksum: F0527FE714AD34E48CE5D3A7294B047F;7382.
  ) 
 Here is how much of TeX's memory you used:
- 15406 strings out of 474312
- 250303 string characters out of 5739285
- 1938907 words of memory out of 5000000
- 37319 multiletter control sequences out of 15000+600000
+ 15408 strings out of 473937
+ 251245 string characters out of 5725482
+ 1938893 words of memory out of 5000000
+ 37697 multiletter control sequences out of 15000+600000
  639109 words of font info for 191 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,79p,1011b,692s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
-fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
-fb><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pf
-b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb
-><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb>
-<C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
-b><C:/Users/duper/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.p
-fb>
-Output written on V0_bilan_stp.pdf (31 pages, 312811 bytes).
+ 75i,15n,79p,1025b,691s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc
+10.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmmi12.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/lm/lmmi8.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/lm/lmr12.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/lm/lmss10.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/lm/lmss12.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/font
+s/type1/public/lm/lmss17.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/lm/lmss8.pfb><C:/Users/sduperret/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/sduperret/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/lm/lmsso12.pfb>
+Output written on V0_bilan_stp.pdf (31 pages, 314520 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 116 named destinations out of 1000 (max. 500000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
  49497 words of extra memory for PDF output out of 51595 (max. 10000000)
 
